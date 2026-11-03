@@ -1,0 +1,13 @@
+servicio,slug,unidad,ambito_usado,ambito,mediana_eur,bajo_eur,alto_eur,precios,fuentes,fecha_datos
+Cambio de aceite y filtros,cambio-aceite,trabajo,national,España,85.00,49.00,90.48,11,11,2026-10-13
+Pastillas de freno,pastillas-freno,trabajo,national,España,100.52,76.32,119.20,58,4,2026-10-13
+Cambio de embrague,embrague,trabajo,national,España,656.26,651.30,661.36,28,3,2026-10-13
+Kit de distribución,kit-distribucion,trabajo,national,España,363.69,273.80,449.64,74,5,2026-10-14
+Carga de aire acondicionado,aire-acondicionado,trabajo,national,España,87.53,76.50,98.24,8,6,2026-10-13
+Montaje de neumáticos,neumaticos,trabajo,national,España,15.00,14.00,19.00,190,4,2026-10-13
+Alineación de la dirección,alineacion,trabajo,national,España,43.56,35.00,50.00,117,4,2026-10-13
+Hora de taller (mano de obra),mano-obra,hora,national,España,51.42,45.38,67.76,11,6,2026-10-14
+Bomba de agua,bomba-agua,trabajo,national,España,109.03,106.52,114.00,23,3,2026-10-13
+Inspección ITV (tarifa oficial),itv,trabajo,national,España,42.70,37.70,48.82,80,14,2026-10-13
+"Revisión básica (aceite, filtro y comprobaciones)",revision-basica,trabajo,national,España,86.65,72.60,119.95,4,4,2026-10-13
+Tasas de la DGT,dgt-tasa,trabajo,national,España,22.70,13.08,48.74,10,1,2026-10-13

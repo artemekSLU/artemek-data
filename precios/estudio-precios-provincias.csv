@@ -1,0 +1,45 @@
+provincia,servicio,slug,unidad,ambito_usado,ambito,mediana_eur,bajo_eur,alto_eur,precios,fuentes,fecha_datos
+Álava,Kit de distribución,kit-distribucion,trabajo,community,País Vasco,360.27,269.39,371.00,3,2,2026-10-13
+Álava,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Álava,14.00,14.00,14.00,6,2,2026-10-13
+Álava,Inspección ITV (tarifa oficial),itv,trabajo,community,País Vasco,56.51,53.63,61.92,3,3,2026-10-13
+Albacete,Kit de distribución,kit-distribucion,trabajo,community,Castilla-La Mancha,356.88,264.14,381.26,3,2,2026-10-14
+Albacete,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Albacete,14.00,14.00,14.00,5,2,2026-10-13
+Albacete,Inspección ITV (tarifa oficial),itv,trabajo,community,Castilla-La Mancha,45.06,34.55,57.22,4,4,2026-10-13
+Burgos,Kit de distribución,kit-distribucion,trabajo,community,Castilla y León,617.76,361.28,617.76,5,3,2026-10-14
+Burgos,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Burgos,15.00,14.50,19.25,7,2,2026-10-13
+Burgos,Inspección ITV (tarifa oficial),itv,trabajo,community,Castilla y León,50.16,45.15,56.33,3,3,2026-10-13
+Cáceres,Inspección ITV (tarifa oficial),itv,trabajo,community,Extremadura,34.75,29.25,38.82,5,4,2026-10-13
+A Coruña,Pastillas de freno,pastillas-freno,trabajo,province,provincia de A Coruña,79.21,79.21,80.45,5,2,2026-10-13
+A Coruña,Kit de distribución,kit-distribucion,trabajo,community,Galicia,358.63,265.47,662.04,3,2,2026-10-14
+A Coruña,Inspección ITV (tarifa oficial),itv,trabajo,community,Galicia,43.29,35.01,52.30,4,4,2026-10-13
+Gipuzkoa,Kit de distribución,kit-distribucion,trabajo,community,País Vasco,360.27,269.39,371.00,3,2,2026-10-13
+Gipuzkoa,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Gipuzkoa,16.00,14.00,19.25,15,2,2026-10-13
+Gipuzkoa,Inspección ITV (tarifa oficial),itv,trabajo,community,País Vasco,56.51,53.63,61.92,3,3,2026-10-13
+Huesca,Pastillas de freno,pastillas-freno,trabajo,community,Aragón,133.95,133.95,208.90,6,3,2026-10-13
+Huesca,Kit de distribución,kit-distribucion,trabajo,community,Aragón,440.17,380.01,529.16,6,2,2026-10-13
+Huesca,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Huesca,16.00,13.50,19.00,3,2,2026-10-13
+Huesca,Inspección ITV (tarifa oficial),itv,trabajo,community,Aragón,49.56,44.02,60.76,3,3,2026-10-13
+León,Kit de distribución,kit-distribucion,trabajo,province,provincia de León,617.76,617.76,677.23,3,2,2026-10-14
+León,Montaje de neumáticos,neumaticos,trabajo,province,provincia de León,14.50,13.50,17.50,8,2,2026-10-13
+León,Inspección ITV (tarifa oficial),itv,trabajo,community,Castilla y León,50.16,45.15,56.33,3,3,2026-10-13
+Madrid,Pastillas de freno,pastillas-freno,trabajo,community,Comunidad de Madrid,124.85,118.32,124.85,5,2,2026-10-13
+Madrid,Kit de distribución,kit-distribucion,trabajo,community,Comunidad de Madrid,426.14,381.53,469.49,6,2,2026-10-13
+Madrid,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Madrid,12.50,11.00,16.10,7,2,2026-10-13
+Madrid,Hora de taller (mano de obra),mano-obra,hora,province,provincia de Madrid,54.45,36.30,147.60,3,2,2026-10-14
+Madrid,Inspección ITV (tarifa oficial),itv,trabajo,community,Comunidad de Madrid,54.66,43.47,74.10,6,3,2026-10-13
+Murcia,Inspección ITV (tarifa oficial),itv,trabajo,province,provincia de Murcia,30.90,22.30,30.90,5,2,2026-10-13
+Navarra,Kit de distribución,kit-distribucion,trabajo,community,Navarra,276.19,276.00,370.68,3,2,2026-10-13
+Navarra,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Navarra,15.00,14.00,15.00,11,2,2026-10-13
+Las Palmas,Kit de distribución,kit-distribucion,trabajo,province,provincia de Las Palmas,193.89,193.89,388.47,3,2,2026-10-14
+Las Palmas,Inspección ITV (tarifa oficial),itv,trabajo,community,Canarias,43.05,33.70,53.26,4,4,2026-10-13
+Cantabria,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Cantabria,18.00,14.00,20.45,15,2,2026-10-13
+Soria,Kit de distribución,kit-distribucion,trabajo,community,Castilla y León,617.76,361.28,617.76,5,3,2026-10-14
+Soria,Montaje de neumáticos,neumaticos,trabajo,community,Castilla y León,15.00,12.00,18.00,37,2,2026-10-13
+Soria,Inspección ITV (tarifa oficial),itv,trabajo,community,Castilla y León,50.16,45.15,56.33,3,3,2026-10-13
+Toledo,Kit de distribución,kit-distribucion,trabajo,community,Castilla-La Mancha,356.88,264.14,381.26,3,2,2026-10-14
+Toledo,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Toledo,14.00,14.00,14.76,11,2,2026-10-13
+Toledo,Inspección ITV (tarifa oficial),itv,trabajo,community,Castilla-La Mancha,45.06,34.55,57.22,4,4,2026-10-13
+Zaragoza,Pastillas de freno,pastillas-freno,trabajo,province,provincia de Zaragoza,133.95,133.95,233.89,5,2,2026-10-13
+Zaragoza,Kit de distribución,kit-distribucion,trabajo,community,Aragón,440.17,380.01,529.16,6,2,2026-10-13
+Zaragoza,Montaje de neumáticos,neumaticos,trabajo,province,provincia de Zaragoza,17.00,14.00,19.38,14,2,2026-10-13
+Zaragoza,Inspección ITV (tarifa oficial),itv,trabajo,community,Aragón,49.56,44.02,60.76,3,3,2026-10-13

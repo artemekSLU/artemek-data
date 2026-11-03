@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así. / If you use this data, please cite it as below."
+type: dataset
+title: "Datos abiertos de Artemek"
+authors:
+  - name: "Artemek"
+    website: "https://www.artemek.com"
+version: "2026.11.03"
+date-released: "2026-11-03"
+license: CC-BY-4.0
+url: "https://www.artemek.com"
+keywords:
+  - taller
+  - precios
+  - reparación de coches
+  - España
+  - open data

@@ -1,0 +1,21 @@
+codigo,ambito,plazo_dias,unidad,comprobado,norma,fuente,hoja_electronica,obligatoria_desde,nota
+ES,España,15,naturales,sí,"TRLGDCU art. 21.3 (redacción de la Ley 10/2025, en vigor desde el 28/12/2025)",https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555,,,"«Quince días desde la presentación», sin decir si son hábiles: se cuentan naturales."
+ES-AN,Andalucía,10,hábiles,sí,"Orden de 24/04/2026 (BOJA 82, 30/04/2026) art. 16; Decreto 82/2022 art. 12.1",https://juntadeandalucia.es/eboja/2026/82/BOJA26-082-00021-5609-01_00336846.pdf,Hoj@,2027-05-20,"En Hoj@ cuenta desde que se abre, o a los 10 días naturales del aviso."
+ES-AR,Aragón,30,naturales,sí,"Decreto 150/2016, arts. 5.1.c y 7.6",,,,"Dice «un mes»: manda el plazo nacional, más corto."
+ES-AS,Asturias,,,pendiente,"Decreto 6/2005, arts. 6 y 7",https://www.asturias.es/bopa/2005/02/01/20050201.pdf,,,
+ES-CN,Canarias,15,hábiles,sí,"Decreto 90/2023, art. 6.d; sede del Gobierno de Canarias",https://sede.gobiernodecanarias.org/sede/tramites/6488,,,"El decreto dice un mes; la sede, 15 días hábiles. Manda el nacional, más corto."
+ES-CB,Cantabria,10,hábiles,sí,"Decreto 21/2021, art. 7.1",https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=358419,,,Ampliable hasta un mes en casos complejos.
+ES-CL,Castilla y León,,,pendiente,"Decreto 109/2004, art. 8",https://bocyl.jcyl.es/boletines/2004/10/20/pdf/BOCYL-D-20102004-8.pdf,,,
+ES-CM,Castilla-La Mancha,,,pendiente,Decreto 72/1997,,,,
+ES-CT,Cataluña,30,naturales,sí,"Decreto 121/2013, art. 9.3; Llei 22/2010, art. 211-14",https://portaldogc.gencat.cat/utilsEADOP/PDF/6325/1287326.pdf,,,"Dice «un mes»: manda el plazo nacional, más corto."
+ES-CE,Ceuta,,,pendiente,,,,,
+ES-MD,Comunidad de Madrid,,,pendiente,Decreto 1/2010,,,,
+ES-VC,Comunitat Valenciana,,,pendiente,Decreto 77/1994; Orden 4/2013,,,,
+ES-EX,Extremadura,,,pendiente,Decreto 144/2006,,,,
+ES-GA,Galicia,,,pendiente,"Decreto 375/1998; Lei 2/2012, art. 32",,,,
+ES-IB,Illes Balears,,,pendiente,"Decreto 46/2009, art. 11.2",http://boib.caib.es/pdf/2009103/mp105.pdf,,,
+ES-RI,La Rioja,,,pendiente,Ley 5/2013,,,,
+ES-ML,Melilla,,,pendiente,,,,,
+ES-NC,Navarra,,,sí,DF 15/2019 (derogó la hoja oficial),,,,Sin hoja oficial: se aplica la norma estatal.
+ES-PV,País Vasco,,,sí,"Decreto 142/2014, art. 11.1",https://www.euskadi.eus/bopv2/datos/2014/07/1403230a.pdf,,,15 días para aceptar o rechazar desde que Consumo la remite.
+ES-MC,Región de Murcia,,,pendiente,Decreto 3/2014,,,,

@@ -1,0 +1,622 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "artemek-datos-abiertos",
+  "title": "Datos abiertos de Artemek",
+  "description": "Precios de taller, estudios, plazos de reclamación y programas de taller en España",
+  "version": "2026.11.03",
+  "created": "2026-11-03",
+  "homepage": "https://www.artemek.com",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Artemek",
+      "path": "https://www.artemek.com",
+      "roles": [
+        "creator"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "name": "precios-indice-precios",
+      "path": "precios/indice-precios.csv",
+      "title": "Índice de precios del taller (precios que cada negocio publica en su web)",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 285,
+      "hash": "sha256:d0e1570586d9a68ae096f6215e6766bb262d4df5cab2cc1e4b8f371686a161e9",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/indice-precios"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "zona",
+            "title": "Zona",
+            "type": "string"
+          },
+          {
+            "name": "servicio",
+            "title": "Servicio",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "title": "Clave",
+            "type": "string"
+          },
+          {
+            "name": "minimo_eur",
+            "title": "Mínimo (€)",
+            "type": "number"
+          },
+          {
+            "name": "maximo_eur",
+            "title": "Máximo (€)",
+            "type": "number"
+          },
+          {
+            "name": "fecha",
+            "title": "Fecha",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "precios-estudio-precios-espana",
+      "path": "precios/estudio-precios-espana.csv",
+      "title": "Lo que cuestan las reparaciones del coche: cifras de España",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 1278,
+      "hash": "sha256:a4d600a3d79bab5ff2eee9c7b95550d28359eb77e68927d0efe679d1925909be",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/estudios/precios-taller-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "servicio",
+            "title": "Servicio",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "title": "Clave",
+            "type": "string"
+          },
+          {
+            "name": "unidad",
+            "title": "Unidad",
+            "type": "string"
+          },
+          {
+            "name": "ambito_usado",
+            "title": "Nivel usado",
+            "type": "string"
+          },
+          {
+            "name": "ambito",
+            "title": "Ámbito",
+            "type": "string"
+          },
+          {
+            "name": "mediana_eur",
+            "title": "Mediana (€)",
+            "type": "number"
+          },
+          {
+            "name": "bajo_eur",
+            "title": "Bajo (€)",
+            "type": "number"
+          },
+          {
+            "name": "alto_eur",
+            "title": "Alto (€)",
+            "type": "number"
+          },
+          {
+            "name": "precios",
+            "title": "Precios",
+            "type": "integer"
+          },
+          {
+            "name": "fuentes",
+            "title": "Fuentes",
+            "type": "integer"
+          },
+          {
+            "name": "fecha_datos",
+            "title": "Fecha de los datos",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "precios-estudio-precios-provincias",
+      "path": "precios/estudio-precios-provincias.csv",
+      "title": "Lo que cuestan las reparaciones del coche: cifras por provincia",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 5062,
+      "hash": "sha256:f5f430e5288ad336b89542c34faa80be5be93cf26fb90694aeda083430a740e0",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/estudios/precios-taller-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "provincia",
+            "title": "Provincia",
+            "type": "string"
+          },
+          {
+            "name": "servicio",
+            "title": "Servicio",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "title": "Clave",
+            "type": "string"
+          },
+          {
+            "name": "unidad",
+            "title": "Unidad",
+            "type": "string"
+          },
+          {
+            "name": "ambito_usado",
+            "title": "Nivel usado",
+            "type": "string"
+          },
+          {
+            "name": "ambito",
+            "title": "Ámbito",
+            "type": "string"
+          },
+          {
+            "name": "mediana_eur",
+            "title": "Mediana (€)",
+            "type": "number"
+          },
+          {
+            "name": "bajo_eur",
+            "title": "Bajo (€)",
+            "type": "number"
+          },
+          {
+            "name": "alto_eur",
+            "title": "Alto (€)",
+            "type": "number"
+          },
+          {
+            "name": "precios",
+            "title": "Precios",
+            "type": "integer"
+          },
+          {
+            "name": "fuentes",
+            "title": "Fuentes",
+            "type": "integer"
+          },
+          {
+            "name": "fecha_datos",
+            "title": "Fecha de los datos",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "precios-mano-obra-comunidades",
+      "path": "precios/mano-obra-comunidades.csv",
+      "title": "Mano de obra por comunidad autónoma (€/hora, IVA incluido)",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 109,
+      "hash": "sha256:72fa692a16203b607bc6a2315fcf1f55f590304904855be4fd284cfd683d2f59",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/estudios/precios-taller-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "comunidad",
+            "title": "Comunidad",
+            "type": "string"
+          },
+          {
+            "name": "mediana_eur",
+            "title": "Mediana (€/h)",
+            "type": "number"
+          },
+          {
+            "name": "bajo_eur",
+            "title": "Bajo (€/h)",
+            "type": "number"
+          },
+          {
+            "name": "alto_eur",
+            "title": "Alto (€/h)",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales",
+      "path": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/portales.csv",
+      "title": "Portales oficiales de información técnica por marca",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 9170,
+      "hash": "sha256:5ba31f41d70268fa14628c35ce72abb0b3ac290a1926ae3ca8bc40438e03cc89",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/talleres/recursos/informacion-tecnica-para-talleres-independientes-en-espana-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "brand",
+            "title": "Marca",
+            "type": "string"
+          },
+          {
+            "name": "portals",
+            "title": "Portal",
+            "type": "string"
+          },
+          {
+            "name": "access",
+            "title": "Cómo se accede",
+            "type": "string"
+          },
+          {
+            "name": "spanish",
+            "title": "En español",
+            "type": "string"
+          },
+          {
+            "name": "sermi",
+            "title": "SERMI",
+            "type": "string"
+          },
+          {
+            "name": "sources",
+            "title": "Fuentes",
+            "type": "integer"
+          },
+          {
+            "name": "url",
+            "title": "Fuente",
+            "type": "string",
+            "format": "uri"
+          }
+        ]
+      }
+    },
+    {
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso",
+      "path": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/acceso.csv",
+      "title": "Catálogos de tiempos y plataformas de diagnosis por forma de acceso",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 196,
+      "hash": "sha256:8c7227634d146dca6f795a5bc5c2a1857e0f0dc8209df3ab20948e5b30968033",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/talleres/recursos/informacion-tecnica-para-talleres-independientes-en-espana-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "access",
+            "title": "Forma de acceso",
+            "type": "string"
+          },
+          {
+            "name": "tiempos",
+            "title": "Catálogos de tiempos",
+            "type": "integer"
+          },
+          {
+            "name": "diagnosis",
+            "title": "Plataformas de diagnosis",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos",
+      "path": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/tipos.csv",
+      "title": "Qué fuentes hemos revisado",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 346,
+      "hash": "sha256:c0d7e248a1da8226bffbe3bc99e1c5e899c3e6e369433bfd601f4381b97de89a",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/talleres/recursos/informacion-tecnica-para-talleres-independientes-en-espana-2026"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "kind",
+            "title": "Tipo de fuente",
+            "type": "string"
+          },
+          {
+            "name": "sources",
+            "title": "Fuentes",
+            "type": "integer"
+          },
+          {
+            "name": "sites",
+            "title": "Sitios web",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades",
+      "path": "estudios/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad/comunidades.csv",
+      "title": "El plazo del taller para contestar, por comunidad autónoma",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 2112,
+      "hash": "sha256:a58d61737dda467588c5e2e02e62c2f3ab9bed8573b0b1efcba2442a7871fa2a",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/conductores/recursos/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "region",
+            "title": "Comunidad",
+            "type": "string"
+          },
+          {
+            "name": "regional",
+            "title": "Plazo de la comunidad",
+            "type": "string"
+          },
+          {
+            "name": "law",
+            "title": "Norma",
+            "type": "string"
+          },
+          {
+            "name": "electronic",
+            "title": "Hoja electrónica",
+            "type": "string"
+          },
+          {
+            "name": "checked",
+            "title": "Comprobado en el boletín",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "title": "Fuente",
+            "type": "string",
+            "format": "uri"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reclamaciones-plazos-por-comunidad",
+      "path": "reclamaciones/plazos-por-comunidad.csv",
+      "title": "Plazo del taller para contestar una hoja de reclamaciones, por comunidad autónoma",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 2477,
+      "hash": "sha256:589f317e70b76adfb78b8045a4af607e7ea999790af77848aee0e7db493b2f38",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/conductores/recursos"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "title": "Código ISO 3166-2",
+            "type": "string"
+          },
+          {
+            "name": "ambito",
+            "title": "Ámbito",
+            "type": "string"
+          },
+          {
+            "name": "plazo_dias",
+            "title": "Plazo (días)",
+            "type": "integer"
+          },
+          {
+            "name": "unidad",
+            "title": "Días",
+            "type": "string"
+          },
+          {
+            "name": "comprobado",
+            "title": "Comprobado en el boletín",
+            "type": "string"
+          },
+          {
+            "name": "norma",
+            "title": "Norma",
+            "type": "string"
+          },
+          {
+            "name": "fuente",
+            "title": "Fuente",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "hoja_electronica",
+            "title": "Hoja electrónica",
+            "type": "string"
+          },
+          {
+            "name": "obligatoria_desde",
+            "title": "Obligatoria desde",
+            "type": "string"
+          },
+          {
+            "name": "nota",
+            "title": "Nota",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "comparativa-programas",
+      "path": "comparativa/programas.csv",
+      "title": "Programas de gestión de taller comparados",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 3224,
+      "hash": "sha256:a50cda9fa9bceeaef311a2b0b38de81db48b749daaa1c8c13b2adad1e1803b1b",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/comparativa"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "clave",
+            "title": "Clave",
+            "type": "string"
+          },
+          {
+            "name": "programa",
+            "title": "Programa",
+            "type": "string"
+          },
+          {
+            "name": "empresa",
+            "title": "Empresa",
+            "type": "string"
+          },
+          {
+            "name": "web",
+            "title": "Web",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "leido_el",
+            "title": "Leído el",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "comparativa-valores",
+      "path": "comparativa/valores.csv",
+      "title": "Lo que la web de cada programa dice, fila a fila",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 214504,
+      "hash": "sha256:e70d73693b98301f3d06e41b331d77dff2f6643e67cedce8660b3fe14f9bb4d0",
+      "sources": [
+        {
+          "title": "artemek.com",
+          "path": "https://www.artemek.com/comparativa"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "programa",
+            "title": "Programa (clave)",
+            "type": "string"
+          },
+          {
+            "name": "fila",
+            "title": "Fila (clave)",
+            "type": "string"
+          },
+          {
+            "name": "fila_nombre",
+            "title": "Fila",
+            "type": "string"
+          },
+          {
+            "name": "grupo",
+            "title": "Grupo",
+            "type": "string"
+          },
+          {
+            "name": "valor",
+            "title": "Valor",
+            "type": "string"
+          },
+          {
+            "name": "fuente",
+            "title": "Fuente",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "leido_el",
+            "title": "Leído el",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

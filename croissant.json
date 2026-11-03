@@ -1,0 +1,1352 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "dct": "http://purl.org/dc/terms/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "dct:conformsTo": "http://mlcommons.org/croissant/1.0",
+  "name": "artemek-datos-abiertos",
+  "description": "Precios de taller, estudios, plazos de reclamación y programas de taller en España",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "url": "https://www.artemek.com",
+  "version": "2026.11.03",
+  "datePublished": "2026-11-03",
+  "inLanguage": "es",
+  "creator": {
+    "@type": "sc:Organization",
+    "name": "Artemek",
+    "url": "https://www.artemek.com"
+  },
+  "citeAs": "Artemek, «Datos abiertos de Artemek», versión 2026.11.03 (2026-11-03). https://www.artemek.com",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "precios-indice-precios",
+      "name": "precios/indice-precios.csv",
+      "contentUrl": "precios/indice-precios.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "d0e1570586d9a68ae096f6215e6766bb262d4df5cab2cc1e4b8f371686a161e9"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "precios-estudio-precios-espana",
+      "name": "precios/estudio-precios-espana.csv",
+      "contentUrl": "precios/estudio-precios-espana.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "a4d600a3d79bab5ff2eee9c7b95550d28359eb77e68927d0efe679d1925909be"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "precios-estudio-precios-provincias",
+      "name": "precios/estudio-precios-provincias.csv",
+      "contentUrl": "precios/estudio-precios-provincias.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "f5f430e5288ad336b89542c34faa80be5be93cf26fb90694aeda083430a740e0"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "precios-mano-obra-comunidades",
+      "name": "precios/mano-obra-comunidades.csv",
+      "contentUrl": "precios/mano-obra-comunidades.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "72fa692a16203b607bc6a2315fcf1f55f590304904855be4fd284cfd683d2f59"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales",
+      "name": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/portales.csv",
+      "contentUrl": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/portales.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "5ba31f41d70268fa14628c35ce72abb0b3ac290a1926ae3ca8bc40438e03cc89"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso",
+      "name": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/acceso.csv",
+      "contentUrl": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/acceso.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "8c7227634d146dca6f795a5bc5c2a1857e0f0dc8209df3ab20948e5b30968033"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos",
+      "name": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/tipos.csv",
+      "contentUrl": "estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/tipos.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "c0d7e248a1da8226bffbe3bc99e1c5e899c3e6e369433bfd601f4381b97de89a"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades",
+      "name": "estudios/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad/comunidades.csv",
+      "contentUrl": "estudios/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad/comunidades.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "a58d61737dda467588c5e2e02e62c2f3ab9bed8573b0b1efcba2442a7871fa2a"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "reclamaciones-plazos-por-comunidad",
+      "name": "reclamaciones/plazos-por-comunidad.csv",
+      "contentUrl": "reclamaciones/plazos-por-comunidad.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "589f317e70b76adfb78b8045a4af607e7ea999790af77848aee0e7db493b2f38"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "comparativa-programas",
+      "name": "comparativa/programas.csv",
+      "contentUrl": "comparativa/programas.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "a50cda9fa9bceeaef311a2b0b38de81db48b749daaa1c8c13b2adad1e1803b1b"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "comparativa-valores",
+      "name": "comparativa/valores.csv",
+      "contentUrl": "comparativa/valores.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "e70d73693b98301f3d06e41b331d77dff2f6643e67cedce8660b3fe14f9bb4d0"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "precios-indice-precios/rows",
+      "name": "precios-indice-precios",
+      "description": "Índice de precios del taller (precios que cada negocio publica en su web)",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/zona",
+          "name": "zona",
+          "description": "Zona",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "zona"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/servicio",
+          "name": "servicio",
+          "description": "Servicio",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "servicio"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/slug",
+          "name": "slug",
+          "description": "Clave",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "slug"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/minimo_eur",
+          "name": "minimo_eur",
+          "description": "Mínimo (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "minimo_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/maximo_eur",
+          "name": "maximo_eur",
+          "description": "Máximo (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "maximo_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-indice-precios/rows/fecha",
+          "name": "fecha",
+          "description": "Fecha",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-indice-precios"
+            },
+            "extract": {
+              "column": "fecha"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "precios-estudio-precios-espana/rows",
+      "name": "precios-estudio-precios-espana",
+      "description": "Lo que cuestan las reparaciones del coche: cifras de España",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/servicio",
+          "name": "servicio",
+          "description": "Servicio",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "servicio"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/slug",
+          "name": "slug",
+          "description": "Clave",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "slug"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/unidad",
+          "name": "unidad",
+          "description": "Unidad",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "unidad"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/ambito_usado",
+          "name": "ambito_usado",
+          "description": "Nivel usado",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "ambito_usado"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/ambito",
+          "name": "ambito",
+          "description": "Ámbito",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "ambito"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/mediana_eur",
+          "name": "mediana_eur",
+          "description": "Mediana (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "mediana_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/bajo_eur",
+          "name": "bajo_eur",
+          "description": "Bajo (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "bajo_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/alto_eur",
+          "name": "alto_eur",
+          "description": "Alto (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "alto_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/precios",
+          "name": "precios",
+          "description": "Precios",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "precios"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/fuentes",
+          "name": "fuentes",
+          "description": "Fuentes",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "fuentes"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-espana/rows/fecha_datos",
+          "name": "fecha_datos",
+          "description": "Fecha de los datos",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-espana"
+            },
+            "extract": {
+              "column": "fecha_datos"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "precios-estudio-precios-provincias/rows",
+      "name": "precios-estudio-precios-provincias",
+      "description": "Lo que cuestan las reparaciones del coche: cifras por provincia",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/provincia",
+          "name": "provincia",
+          "description": "Provincia",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "provincia"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/servicio",
+          "name": "servicio",
+          "description": "Servicio",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "servicio"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/slug",
+          "name": "slug",
+          "description": "Clave",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "slug"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/unidad",
+          "name": "unidad",
+          "description": "Unidad",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "unidad"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/ambito_usado",
+          "name": "ambito_usado",
+          "description": "Nivel usado",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "ambito_usado"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/ambito",
+          "name": "ambito",
+          "description": "Ámbito",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "ambito"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/mediana_eur",
+          "name": "mediana_eur",
+          "description": "Mediana (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "mediana_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/bajo_eur",
+          "name": "bajo_eur",
+          "description": "Bajo (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "bajo_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/alto_eur",
+          "name": "alto_eur",
+          "description": "Alto (€)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "alto_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/precios",
+          "name": "precios",
+          "description": "Precios",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "precios"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/fuentes",
+          "name": "fuentes",
+          "description": "Fuentes",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "fuentes"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-estudio-precios-provincias/rows/fecha_datos",
+          "name": "fecha_datos",
+          "description": "Fecha de los datos",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-estudio-precios-provincias"
+            },
+            "extract": {
+              "column": "fecha_datos"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "precios-mano-obra-comunidades/rows",
+      "name": "precios-mano-obra-comunidades",
+      "description": "Mano de obra por comunidad autónoma (€/hora, IVA incluido)",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "precios-mano-obra-comunidades/rows/comunidad",
+          "name": "comunidad",
+          "description": "Comunidad",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "precios-mano-obra-comunidades"
+            },
+            "extract": {
+              "column": "comunidad"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-mano-obra-comunidades/rows/mediana_eur",
+          "name": "mediana_eur",
+          "description": "Mediana (€/h)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-mano-obra-comunidades"
+            },
+            "extract": {
+              "column": "mediana_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-mano-obra-comunidades/rows/bajo_eur",
+          "name": "bajo_eur",
+          "description": "Bajo (€/h)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-mano-obra-comunidades"
+            },
+            "extract": {
+              "column": "bajo_eur"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "precios-mano-obra-comunidades/rows/alto_eur",
+          "name": "alto_eur",
+          "description": "Alto (€/h)",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "precios-mano-obra-comunidades"
+            },
+            "extract": {
+              "column": "alto_eur"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows",
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales",
+      "description": "Portales oficiales de información técnica por marca",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/brand",
+          "name": "brand",
+          "description": "Marca",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "brand"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/portals",
+          "name": "portals",
+          "description": "Portal",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "portals"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/access",
+          "name": "access",
+          "description": "Cómo se accede",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "access"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/spanish",
+          "name": "spanish",
+          "description": "En español",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "spanish"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/sermi",
+          "name": "sermi",
+          "description": "SERMI",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "sermi"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/sources",
+          "name": "sources",
+          "description": "Fuentes",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "sources"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales/rows/url",
+          "name": "url",
+          "description": "Fuente",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-portales"
+            },
+            "extract": {
+              "column": "url"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso/rows",
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso",
+      "description": "Catálogos de tiempos y plataformas de diagnosis por forma de acceso",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso/rows/access",
+          "name": "access",
+          "description": "Forma de acceso",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso"
+            },
+            "extract": {
+              "column": "access"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso/rows/tiempos",
+          "name": "tiempos",
+          "description": "Catálogos de tiempos",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso"
+            },
+            "extract": {
+              "column": "tiempos"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso/rows/diagnosis",
+          "name": "diagnosis",
+          "description": "Plataformas de diagnosis",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-acceso"
+            },
+            "extract": {
+              "column": "diagnosis"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos/rows",
+      "name": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos",
+      "description": "Qué fuentes hemos revisado",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos/rows/kind",
+          "name": "kind",
+          "description": "Tipo de fuente",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos"
+            },
+            "extract": {
+              "column": "kind"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos/rows/sources",
+          "name": "sources",
+          "description": "Fuentes",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos"
+            },
+            "extract": {
+              "column": "sources"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos/rows/sites",
+          "name": "sites",
+          "description": "Sitios web",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-informacion-tecnica-para-talleres-independientes-en-espana-2026-tipos"
+            },
+            "extract": {
+              "column": "sites"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows",
+      "name": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades",
+      "description": "El plazo del taller para contestar, por comunidad autónoma",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/region",
+          "name": "region",
+          "description": "Comunidad",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "region"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/regional",
+          "name": "regional",
+          "description": "Plazo de la comunidad",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "regional"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/law",
+          "name": "law",
+          "description": "Norma",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "law"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/electronic",
+          "name": "electronic",
+          "description": "Hoja electrónica",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "electronic"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/checked",
+          "name": "checked",
+          "description": "Comprobado en el boletín",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "checked"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades/rows/url",
+          "name": "url",
+          "description": "Fuente",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "estudios-reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad-comunidades"
+            },
+            "extract": {
+              "column": "url"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "reclamaciones-plazos-por-comunidad/rows",
+      "name": "reclamaciones-plazos-por-comunidad",
+      "description": "Plazo del taller para contestar una hoja de reclamaciones, por comunidad autónoma",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/codigo",
+          "name": "codigo",
+          "description": "Código ISO 3166-2",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "codigo"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/ambito",
+          "name": "ambito",
+          "description": "Ámbito",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "ambito"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/plazo_dias",
+          "name": "plazo_dias",
+          "description": "Plazo (días)",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "plazo_dias"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/unidad",
+          "name": "unidad",
+          "description": "Días",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "unidad"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/comprobado",
+          "name": "comprobado",
+          "description": "Comprobado en el boletín",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "comprobado"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/norma",
+          "name": "norma",
+          "description": "Norma",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "norma"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/fuente",
+          "name": "fuente",
+          "description": "Fuente",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "fuente"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/hoja_electronica",
+          "name": "hoja_electronica",
+          "description": "Hoja electrónica",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "hoja_electronica"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/obligatoria_desde",
+          "name": "obligatoria_desde",
+          "description": "Obligatoria desde",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "obligatoria_desde"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "reclamaciones-plazos-por-comunidad/rows/nota",
+          "name": "nota",
+          "description": "Nota",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "reclamaciones-plazos-por-comunidad"
+            },
+            "extract": {
+              "column": "nota"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "comparativa-programas/rows",
+      "name": "comparativa-programas",
+      "description": "Programas de gestión de taller comparados",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-programas/rows/clave",
+          "name": "clave",
+          "description": "Clave",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-programas"
+            },
+            "extract": {
+              "column": "clave"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-programas/rows/programa",
+          "name": "programa",
+          "description": "Programa",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-programas"
+            },
+            "extract": {
+              "column": "programa"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-programas/rows/empresa",
+          "name": "empresa",
+          "description": "Empresa",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-programas"
+            },
+            "extract": {
+              "column": "empresa"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-programas/rows/web",
+          "name": "web",
+          "description": "Web",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-programas"
+            },
+            "extract": {
+              "column": "web"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-programas/rows/leido_el",
+          "name": "leido_el",
+          "description": "Leído el",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-programas"
+            },
+            "extract": {
+              "column": "leido_el"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "comparativa-valores/rows",
+      "name": "comparativa-valores",
+      "description": "Lo que la web de cada programa dice, fila a fila",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/programa",
+          "name": "programa",
+          "description": "Programa (clave)",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "programa"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/fila",
+          "name": "fila",
+          "description": "Fila (clave)",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "fila"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/fila_nombre",
+          "name": "fila_nombre",
+          "description": "Fila",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "fila_nombre"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/grupo",
+          "name": "grupo",
+          "description": "Grupo",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "grupo"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/valor",
+          "name": "valor",
+          "description": "Valor",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "valor"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/fuente",
+          "name": "fuente",
+          "description": "Fuente",
+          "dataType": "sc:URL",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "fuente"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "comparativa-valores/rows/leido_el",
+          "name": "leido_el",
+          "description": "Leído el",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "comparativa-valores"
+            },
+            "extract": {
+              "column": "leido_el"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
