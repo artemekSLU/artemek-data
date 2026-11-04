@@ -1,6 +1,6 @@
 # Datos abiertos de Artemek
 
-**Versión 2026.11.03** · 2026-11-03 · Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Fuente: [artemek.com](https://www.artemek.com)
+**Versión 2026.11.04** · 2026-11-04 · Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Fuente: [artemek.com](https://www.artemek.com)
 
 Datos públicos sobre el taller del coche en España que publicamos en artemek.com: precios de taller con sus fuentes, nuestros estudios de datos, los plazos para contestar una hoja de reclamaciones en cada comunidad autónoma y la comparativa de programas de gestión de taller. Son las mismas cifras que salen en la web, con sus mínimos de muestra ya aplicados.
 
@@ -8,7 +8,7 @@ Datos públicos sobre el taller del coche en España que publicamos en artemek.c
 
 ## Cómo citarlo
 
-> Artemek, «Datos abiertos de Artemek», versión 2026.11.03 (2026-11-03). https://www.artemek.com · CC BY 4.0.
+> Artemek, «Datos abiertos de Artemek», versión 2026.11.04 (2026-11-04). https://www.artemek.com · CC BY 4.0.
 
 El archivo `CITATION.cff` tiene la cita en formato estándar. La licencia pide atribución: nombra a Artemek y enlaza https://www.artemek.com.
 
@@ -25,8 +25,8 @@ El archivo `CITATION.cff` tiene la cita en formato estándar. La licencia pide a
 | `estudios/informacion-tecnica-para-talleres-independientes-en-espana-2026/tipos.csv` | 10 | Qué fuentes hemos revisado | https://www.artemek.com/talleres/recursos/informacion-tecnica-para-talleres-independientes-en-espana-2026 |
 | `estudios/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad/comunidades.csv` | 19 | El plazo del taller para contestar, por comunidad autónoma | https://www.artemek.com/conductores/recursos/reclamar-al-taller-plazos-y-hojas-de-reclamaciones-por-comunidad |
 | `reclamaciones/plazos-por-comunidad.csv` | 20 | Plazo del taller para contestar una hoja de reclamaciones, por comunidad autónoma | https://www.artemek.com/conductores/recursos |
-| `comparativa/programas.csv` | 39 | Programas de gestión de taller comparados | https://www.artemek.com/comparativa |
-| `comparativa/valores.csv` | 1666 | Lo que la web de cada programa dice, fila a fila | https://www.artemek.com/comparativa |
+| `comparativa/programas.csv` | 40 | Programas de gestión de taller comparados | https://www.artemek.com/comparativa |
+| `comparativa/valores.csv` | 1710 | Lo que la web de cada programa dice, fila a fila | https://www.artemek.com/comparativa |
 
 Cada CSV es UTF-8 con una fila de cabecera (las claves de columna). `datapackage.json` (Frictionless Data Package) y `croissant.json` (MLCommons Croissant 1.0) describen cada columna.
 
