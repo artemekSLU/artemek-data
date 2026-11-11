@@ -50,7 +50,7 @@
   "description": "Precios de taller, estudios, reclamaciones y programas de taller en España",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "url": "https://www.artemek.com",
-  "version": "2026.11.11",
+  "version": "2026.11.11.2",
   "datePublished": "2026-11-11",
   "inLanguage": "es",
   "creator": {
@@ -58,7 +58,7 @@
     "name": "Artemek",
     "url": "https://www.artemek.com"
   },
-  "citeAs": "Artemek, «Datos abiertos de Artemek», versión 2026.11.11 (2026-11-11). https://www.artemek.com",
+  "citeAs": "Artemek, «Datos abiertos de Artemek», versión 2026.11.11.2 (2026-11-11). https://www.artemek.com",
   "distribution": [
     {
       "@type": "cr:FileObject",
@@ -138,7 +138,7 @@
       "name": "comparativa/programas.csv",
       "contentUrl": "comparativa/programas.csv",
       "encodingFormat": "text/csv",
-      "sha256": "3bcbc7ed005f8b46e39d39c9dfd9bb50c2d56b180fcb9c53b25e30a02b61e03a"
+      "sha256": "acc5054573146cd37698739a437a6b434cb793280ba00f5a9fe42b658b662f2c"
     },
     {
       "@type": "cr:FileObject",
@@ -146,7 +146,7 @@
       "name": "comparativa/valores.csv",
       "contentUrl": "comparativa/valores.csv",
       "encodingFormat": "text/csv",
-      "sha256": "c5ec9e6d4205e6e85f9bd71f09d491773d6f39de1949f1a558f8be030b9df418"
+      "sha256": "3e12416290ce1bc8894e51c39ba7e6291c3df86a231744b23a7f014426bbc061"
     }
   ],
   "recordSet": [
