@@ -1,6 +1,6 @@
 # Datos abiertos de Artemek
 
-**Versión 2026.11.04** · 2026-11-04 · Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Fuente: [artemek.com](https://www.artemek.com)
+**Versión 2026.11.11** · 2026-11-11 · Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Fuente: [artemek.com](https://www.artemek.com)
 
 Datos públicos sobre el taller del coche en España que publicamos en artemek.com: precios de taller con sus fuentes, nuestros estudios de datos, los plazos para contestar una hoja de reclamaciones en cada comunidad autónoma y la comparativa de programas de gestión de taller. Son las mismas cifras que salen en la web, con sus mínimos de muestra ya aplicados.
 
@@ -8,7 +8,7 @@ Datos públicos sobre el taller del coche en España que publicamos en artemek.c
 
 ## Cómo citarlo
 
-> Artemek, «Datos abiertos de Artemek», versión 2026.11.04 (2026-11-04). https://www.artemek.com · CC BY 4.0.
+> Artemek, «Datos abiertos de Artemek», versión 2026.11.11 (2026-11-11). https://www.artemek.com · CC BY 4.0.
 
 El archivo `CITATION.cff` tiene la cita en formato estándar. La licencia pide atribución: nombra a Artemek y enlaza https://www.artemek.com.
 

@@ -2,9 +2,9 @@
   "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
   "name": "artemek-datos-abiertos",
   "title": "Datos abiertos de Artemek",
-  "description": "Precios de taller, estudios, plazos de reclamación y programas de taller en España",
-  "version": "2026.11.04",
-  "created": "2026-11-04",
+  "description": "Precios de taller, estudios, reclamaciones y programas de taller en España",
+  "version": "2026.11.11",
+  "created": "2026-11-11",
   "homepage": "https://www.artemek.com",
   "licenses": [
     {
@@ -524,7 +524,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "bytes": 3287,
-      "hash": "sha256:e3c3b50725e71d5d03aca69eded4b264730bd84fc5a00ab8bb917c6282524f2d",
+      "hash": "sha256:3bcbc7ed005f8b46e39d39c9dfd9bb50c2d56b180fcb9c53b25e30a02b61e03a",
       "sources": [
         {
           "title": "artemek.com",
@@ -569,8 +569,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "bytes": 221123,
-      "hash": "sha256:b983b4f5e052f4861d8192cf169299c3f2ff0cdd336b6e7f0971777aa6e2748b",
+      "bytes": 221605,
+      "hash": "sha256:c5ec9e6d4205e6e85f9bd71f09d491773d6f39de1949f1a558f8be030b9df418",
       "sources": [
         {
           "title": "artemek.com",

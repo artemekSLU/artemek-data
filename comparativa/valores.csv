@@ -1,90 +1,90 @@
 programa,fila,fila_nombre,grupo,valor,fuente,leido_el
-doscar-taller,precio,Precio al mes,Precio y condiciones,"Sin cuota mensual: licencia de uso permanente por pago único de 164,95 € (+IVA). Soporte anual opcional: Básico 99 €, Medio 219 €, Avanzado 359,95 € (+IVA/año).",https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,iva,IVA en el precio,Precio y condiciones,Los precios se publican más IVA (+ IVA).,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,anual,Pago anual,Precio y condiciones,"Soporte anual opcional: Básico 99 €/año (8,25 €/mes), Medio 219 €/año (18,25 €/mes), Avanzado 359,95 €/año (29,99 €/mes), todos +IVA.",https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,permanencia,Permanencia,Precio y condiciones,Licencia permanente sin cuotas; el soporte es opcional y no obligatorio para el funcionamiento del programa.,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,alta,Cuota de alta o implantación,Precio y condiciones,Incluye 30 días de soporte de puesta en marcha; no menciona cuota de alta.,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,usuarios,Usuarios,Precio y condiciones,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,verifactu,Verifactu,Qué incluye,Adaptado a Verifactu y la Ley Antifraude; emite tickets y facturas conformes.,https://www.doscar.com/por-que-doscar-taller/,2026-10-28
-doscar-taller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Gestión de stock, compras y proveedores desde el programa; no menciona precios de proveedor en vivo ni pedidos integrados.",https://www.doscar.com/por-que-doscar-taller/,2026-11-04
+doscar-taller,precio,Precio al mes,Precio y condiciones,"Sin cuota mensual: licencia de uso permanente por pago único de 164,95 € (+IVA). Soporte anual opcional: Básico 99 €, Medio 219 €, Avanzado 359,95 € (+IVA/año).",https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,iva,IVA en el precio,Precio y condiciones,Los precios se publican más IVA (+ IVA).,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,anual,Pago anual,Precio y condiciones,"Soporte anual opcional: Básico 99 €/año (8,25 €/mes), Medio 219 €/año (18,25 €/mes), Avanzado 359,95 €/año (29,99 €/mes), todos +IVA.",https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,permanencia,Permanencia,Precio y condiciones,Licencia permanente sin cuotas; el soporte es opcional y no obligatorio para el funcionamiento del programa.,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,alta,Cuota de alta o implantación,Precio y condiciones,Incluye 30 días de soporte de puesta en marcha; no menciona cuota de alta.,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,usuarios,Usuarios,Precio y condiciones,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,verifactu,Verifactu,Qué incluye,Adaptado a Verifactu y la Ley Antifraude; emite tickets y facturas conformes.,https://www.doscar.com/por-que-doscar-taller/,2026-11-11
+doscar-taller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Gestión de stock, compras y proveedores desde el programa; no menciona precios de proveedor en vivo ni pedidos integrados.",https://www.doscar.com/por-que-doscar-taller/,2026-11-11
 doscar-taller,citas_online,Citas online,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-10-28
-doscar-taller,web,Web del taller,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
+doscar-taller,web,Web del taller,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
 doscar-taller,fichaje,Control horario,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-10-22
-doscar-taller,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,ia,Dónde usa IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-04
-doscar-taller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,sepa,Remesas SEPA,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-doscar-taller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.doscar.com/,2026-11-04
-netix,precio,Precio al mes,Precio y condiciones,"Básico: 69 €/mes. Premium: 192,75 €/mes. Grandes cuentas: a presupuestar.",https://netixcloud.com/,2026-11-04
-netix,iva,IVA en el precio,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-04
-netix,anual,Pago anual,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-04
+doscar-taller,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,ia,Dónde usa IA,Qué incluye,No consta,https://www.doscar.com/programa-para-taller/,2026-11-11
+doscar-taller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,sepa,Remesas SEPA,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+doscar-taller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.doscar.com/,2026-11-11
+netix,precio,Precio al mes,Precio y condiciones,"Básico: 69 €/mes. Premium: 192,75 €/mes. Grandes cuentas: a presupuestar.",https://netixcloud.com/,2026-11-11
+netix,iva,IVA en el precio,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-11
+netix,anual,Pago anual,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-11
 netix,permanencia,Permanencia,Precio y condiciones,Sin permanencia: se puede cancelar la suscripción en cualquier momento sin penalizaciones.,https://netixcloud.com/,2026-10-28
-netix,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-04
-netix,usuarios,Usuarios,Precio y condiciones,Básico: 1 usuario. Premium: 3 usuarios. Grandes cuentas: usuarios ilimitados.,https://netixcloud.com/,2026-11-04
-netix,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-04
-netix,verifactu,Verifactu,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
+netix,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-11
+netix,usuarios,Usuarios,Precio y condiciones,Básico: 1 usuario. Premium: 3 usuarios. Grandes cuentas: usuarios ilimitados.,https://netixcloud.com/,2026-11-11
+netix,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://netixcloud.com/,2026-11-11
+netix,verifactu,Verifactu,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
 netix,facturae,Factura electrónica (Facturae),Qué incluye,Dispone de módulo de factura electrónica.,https://netixcloud.com/,2026-10-22
-netix,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Acceso a tarifas ilimitadas en todos los planes.,https://netixcloud.com/,2026-11-04
-netix,citas_online,Citas online,Qué incluye,Automatización de citas y programación de trabajos con calendario integrado.,https://netixcloud.com/,2026-11-04
-netix,web,Web del taller,Qué incluye,"Tienda On-Line incluida en los planes Básico, Premium y Grandes cuentas.",https://netixcloud.com/,2026-11-04
-netix,fichaje,Control horario,Qué incluye,Fichajes operarios incluidos en todos los planes.,https://netixcloud.com/,2026-11-04
-netix,migracion,Migración desde otro programa,Qué incluye,Importación de datos desde otros softwares con solo unos clics.,https://netixcloud.com/,2026-11-04
-netix,ia,Dónde usa IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,sepa,Remesas SEPA,Qué incluye,No consta,https://netixcloud.com/,2026-10-22
-netix,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://netixcloud.com/,2026-10-28
-netix,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://netixcloud.com/,2026-11-04
-netix,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
-netix,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://netixcloud.com/,2026-11-04
+netix,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Acceso a tarifas ilimitadas en todos los planes.,https://netixcloud.com/,2026-11-11
+netix,citas_online,Citas online,Qué incluye,Automatización de citas y programación de trabajos con calendario integrado.,https://netixcloud.com/,2026-11-11
+netix,web,Web del taller,Qué incluye,"Tienda On-Line incluida en los planes Básico, Premium y Grandes cuentas.",https://netixcloud.com/,2026-11-11
+netix,fichaje,Control horario,Qué incluye,Fichajes operarios incluidos en todos los planes.,https://netixcloud.com/,2026-11-11
+netix,migracion,Migración desde otro programa,Qué incluye,Importación de datos desde otros softwares con solo unos clics.,https://netixcloud.com/,2026-11-11
+netix,ia,Dónde usa IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,sepa,Remesas SEPA,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://netixcloud.com/,2026-11-11
+netix,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
+netix,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://netixcloud.com/,2026-11-11
 gemicar,precio,Precio al mes,Precio y condiciones,"Alquiler (SaaS): desde 47,00 €/mes. Compra de licencia: a partir de 700,00 €.",https://gemicar.net/faq/,2026-11-04
 gemicar,iva,IVA en el precio,Precio y condiciones,No consta,https://gemicar.net/,2026-11-04
 gemicar,anual,Pago anual,Precio y condiciones,No consta,https://gemicar.net/,2026-11-04
@@ -128,49 +128,49 @@ gemicar,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://ge
 gemicar,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gemicar.net/,2026-11-04
 gemicar,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gemicar.net/,2026-11-04
 gemicar,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gemicar.net/,2026-11-04
-gm-net,precio,Precio al mes,Precio y condiciones,Licencia Taller: 49€/mes. Multi-taller y Solución a medida: consultar.,https://gm-net.es/tarifas/,2026-11-04
-gm-net,iva,IVA en el precio,Precio y condiciones,No consta,https://gm-net.es/tarifas/,2026-11-04
-gm-net,anual,Pago anual,Precio y condiciones,No consta,https://gm-net.es/tarifas/,2026-11-04
-gm-net,permanencia,Permanencia,Precio y condiciones,"Depende de la modalidad; existe opción sin permanencia, ofertas pueden requerir compromiso mínimo.",https://gm-net.es/tarifas/,2026-11-04
-gm-net,alta,Cuota de alta o implantación,Precio y condiciones,Puesta en marcha con un pequeño coste adicional.,https://gm-net.es/tarifas/,2026-11-04
-gm-net,usuarios,Usuarios,Precio y condiciones,Las tarifas se ajustan al número de usuarios; en principio sin límites.,https://gm-net.es/tarifas/,2026-11-04
-gm-net,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gm-net.es/,2026-11-04
-gm-net,verifactu,Verifactu,Qué incluye,"Sí, integración con VERI*FACTU (AEAT) para envío de registros RRF y QR.",https://gm-net.es/,2026-11-04
-gm-net,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-04
+gm-net,precio,Precio al mes,Precio y condiciones,Licencia Taller: 49€/mes. Multi-taller y Solución a medida: consultar.,https://gm-net.es/tarifas/,2026-11-11
+gm-net,iva,IVA en el precio,Precio y condiciones,No consta,https://gm-net.es/tarifas/,2026-11-11
+gm-net,anual,Pago anual,Precio y condiciones,No consta,https://gm-net.es/tarifas/,2026-11-11
+gm-net,permanencia,Permanencia,Precio y condiciones,"Depende de la modalidad; existe opción sin permanencia, ofertas pueden requerir compromiso mínimo.",https://gm-net.es/tarifas/,2026-11-11
+gm-net,alta,Cuota de alta o implantación,Precio y condiciones,Puesta en marcha con un pequeño coste adicional.,https://gm-net.es/tarifas/,2026-11-11
+gm-net,usuarios,Usuarios,Precio y condiciones,Las tarifas se ajustan al número de usuarios; en principio sin límites.,https://gm-net.es/tarifas/,2026-11-11
+gm-net,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gm-net.es/,2026-11-11
+gm-net,verifactu,Verifactu,Qué incluye,"Sí, integración con VERI*FACTU (AEAT) para envío de registros RRF y QR.",https://gm-net.es/,2026-11-11
+gm-net,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-11
 gm-net,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,citas_online,Citas online,Qué incluye,No consta,https://gm-net.es/caracteristicas-2/,2026-11-04
-gm-net,web,Web del taller,Qué incluye,No consta,https://gm-net.es/,2026-11-04
+gm-net,citas_online,Citas online,Qué incluye,No consta,https://gm-net.es/caracteristicas-2/,2026-11-11
+gm-net,web,Web del taller,Qué incluye,No consta,https://gm-net.es/,2026-11-11
 gm-net,fichaje,Control horario,Qué incluye,"Módulo Registro de entrada: fichaje con fecha y hora, conforme al Real Decreto-ley 8/2019.",https://gm-net.es/caracteristicas-2/,2026-10-28
-gm-net,migracion,Migración desde otro programa,Qué incluye,"Sí, en muchos casos se pueden importar datos según formato y volumen; se presupuesta.",https://gm-net.es/tarifas/,2026-11-04
-gm-net,ia,Dónde usa IA,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,sepa,Remesas SEPA,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,itv,Aviso de ITV por WhatsApp,Qué incluye,"Envío automático por Mail, SMS o WhatsApp de recordatorios de citas, revisiones, ITV.",https://gm-net.es/,2026-11-04
-gm-net,multicentro,Varios talleres en una sola cuenta,Qué incluye,Varios talleres en una sola cuenta,https://gm-net.es/tarifas/,2026-11-04
-gm-net,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gm-net.es/,2026-11-04
-gm-net,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
-gm-net,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gm-net.es/,2026-11-04
+gm-net,migracion,Migración desde otro programa,Qué incluye,"Sí, en muchos casos se pueden importar datos según formato y volumen; se presupuesta.",https://gm-net.es/tarifas/,2026-11-11
+gm-net,ia,Dónde usa IA,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,sepa,Remesas SEPA,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,itv,Aviso de ITV por WhatsApp,Qué incluye,"Envío automático por Mail, SMS o WhatsApp de recordatorios de citas, revisiones, ITV.",https://gm-net.es/,2026-11-11
+gm-net,multicentro,Varios talleres en una sola cuenta,Qué incluye,Varios talleres en una sola cuenta,https://gm-net.es/tarifas/,2026-11-11
+gm-net,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gm-net.es/,2026-11-11
+gm-net,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
+gm-net,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gm-net.es/,2026-11-11
 eina,precio,Precio al mes,Precio y condiciones,Un usuario incluido por 30 €/mes; se pueden añadir usuarios según necesidades,https://sinigual.com/,2026-11-04
 eina,iva,IVA en el precio,Precio y condiciones,IVA no incluido,https://sinigual.com/,2026-11-04
 eina,anual,Pago anual,Precio y condiciones,No consta,https://sinigual.com/,2026-11-04
@@ -214,49 +214,49 @@ eina,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://sinig
 eina,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://sinigual.com/,2026-11-04
 eina,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://sinigual.com/,2026-11-04
 eina,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://sinigual.com/,2026-11-04
-tallermatic,precio,Precio al mes,Precio y condiciones,10 € (o 99 € al año),https://www.tallermatic.com/,2026-11-04
-tallermatic,iva,IVA en el precio,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,anual,Pago anual,Precio y condiciones,99 € al año,https://www.tallermatic.com/tarifas/,2026-11-04
-tallermatic,permanencia,Permanencia,Precio y condiciones,No,https://www.tallermatic.com/,2026-11-04
-tallermatic,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://www.tallermatic.com/tarifas/,2026-11-04
-tallermatic,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-10-28
-tallermatic,verifactu,Verifactu,Qué incluye,Sí (y TicketBAI),https://www.tallermatic.com/,2026-11-04
-tallermatic,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Avisos y documentos preparados para enviar; IA para clientes, no consta",https://www.tallermatic.com/tarifas/,2026-11-04
-tallermatic,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
+tallermatic,precio,Precio al mes,Precio y condiciones,10 € (o 99 € al año),https://www.tallermatic.com/,2026-11-11
+tallermatic,iva,IVA en el precio,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,anual,Pago anual,Precio y condiciones,99 € al año,https://www.tallermatic.com/tarifas/,2026-11-11
+tallermatic,permanencia,Permanencia,Precio y condiciones,No,https://www.tallermatic.com/,2026-11-11
+tallermatic,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://www.tallermatic.com/tarifas/,2026-11-11
+tallermatic,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,verifactu,Verifactu,Qué incluye,Sí (y TicketBAI),https://www.tallermatic.com/,2026-11-11
+tallermatic,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Avisos y documentos preparados para enviar; IA para clientes, no consta",https://www.tallermatic.com/tarifas/,2026-11-11
+tallermatic,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
 tallermatic,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta (stock y proveedores),https://www.tallermatic.com/tarifas/,2026-10-21
 tallermatic,citas_online,Citas online,Qué incluye,No consta (agenda interna),https://www.tallermatic.com/tarifas/,2026-10-21
-tallermatic,web,Web del taller,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,fichaje,Control horario,Qué incluye,Sí,https://www.tallermatic.com/tarifas/,2026-11-04
-tallermatic,migracion,Migración desde otro programa,Qué incluye,"Sí, importación; la hacen ellos si hace falta (coste: no consta)",https://www.tallermatic.com/,2026-11-04
-tallermatic,ia,Dónde usa IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,sepa,Remesas SEPA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
-tallermatic,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-04
+tallermatic,web,Web del taller,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,fichaje,Control horario,Qué incluye,Sí,https://www.tallermatic.com/tarifas/,2026-11-11
+tallermatic,migracion,Migración desde otro programa,Qué incluye,"Sí, importación; la hacen ellos si hace falta (coste: no consta)",https://www.tallermatic.com/,2026-11-11
+tallermatic,ia,Dónde usa IA,Qué incluye,"IA en entrada en taller: mejora la redacción de averías y leer datos de vehículos a partir de fotografías de su documentación, siempre con revisión manual",https://www.tallermatic.com/,2026-11-11
+tallermatic,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,sepa,Remesas SEPA,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
+tallermatic,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.tallermatic.com/,2026-11-11
 software-gestion-verifactu-y-diagnosis-para-talleres,precio,Precio al mes,Precio y condiciones,Básico 20 €/mes; Estándar 60 €/mes; Todo en Uno 160 €/mes (precios sin IVA),https://www.autoxuga.com/,2026-11-04
 software-gestion-verifactu-y-diagnosis-para-talleres,iva,IVA en el precio,Precio y condiciones,Precios sin IVA,https://www.autoxuga.com/,2026-11-04
 software-gestion-verifactu-y-diagnosis-para-talleres,anual,Pago anual,Precio y condiciones,Total primer año: Básico 240 €; Estándar 880 € (con software y adaptador de diagnosis); Todo en Uno 2.080 € (con software y adaptador),https://www.autoxuga.com/,2026-11-04
@@ -300,218 +300,218 @@ software-gestion-verifactu-y-diagnosis-para-talleres,senal,Señal para confirmar
 software-gestion-verifactu-y-diagnosis-para-talleres,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.autoxuga.com/,2026-11-04
 software-gestion-verifactu-y-diagnosis-para-talleres,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.autoxuga.com/,2026-11-04
 software-gestion-verifactu-y-diagnosis-para-talleres,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.autoxuga.com/,2026-11-04
-programa-taller,precio,Precio al mes,Precio y condiciones,"Inicio 79,00 €, Estándar 99,00 €, Premium 129,00 € al mes (pago mensual sin compromiso).",https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,iva,IVA en el precio,Precio y condiciones,Sin IVA,https://www.programa-taller.es/precios/,2026-11-04
+programa-taller,precio,Precio al mes,Precio y condiciones,"Inicio 79,00 €, Estándar 99,00 €, Premium 129,00 € al mes (pago mensual sin compromiso).",https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,iva,IVA en el precio,Precio y condiciones,Sin IVA,https://www.programa-taller.es/precios/,2026-11-11
 programa-taller,anual,Pago anual,Precio y condiciones,"20 % menos al año (758,40 / 950,40 / 1.238,40 €); 30 % menos con compromiso de 24 meses",https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,permanencia,Permanencia,Precio y condiciones,"No; el precio más bajo (desde 55,30 € al mes) pide un compromiso de 24 meses",https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,"Llamadas y WhatsApp se facturan aparte, según uso",https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,verifactu,Verifactu,Qué incluye,Sí,https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"En Premium (WhatsApp Business API); en Estándar, WhatsApp manual",https://www.programa-taller.es/precios/,2026-11-04
+programa-taller,permanencia,Permanencia,Precio y condiciones,"No; el precio más bajo (desde 55,30 € al mes) pide un compromiso de 24 meses",https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,"Llamadas y WhatsApp se facturan aparte, según uso",https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,verifactu,Verifactu,Qué incluye,Sí,https://www.programa-taller.es/,2026-11-11
+programa-taller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"En Premium (WhatsApp Business API); en Estándar, WhatsApp manual",https://www.programa-taller.es/precios/,2026-11-11
 programa-taller,telefono_ia,Teléfono con IA,Qué incluye,Centralita telefónica con IA incluida en todos los planes,https://www.programa-taller.es/,2026-11-04
-programa-taller,presupuestos_ia,Presupuestos con IA,Qué incluye,"Sí, desde Estándar",https://www.programa-taller.es/precios/,2026-11-04
-programa-taller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"En Estándar y Premium: recambios, stock y proveedores",https://www.programa-taller.es/precios/,2026-11-04
+programa-taller,presupuestos_ia,Presupuestos con IA,Qué incluye,"Sí, desde Estándar",https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"En Estándar y Premium: recambios, stock y proveedores",https://www.programa-taller.es/precios/,2026-11-11
 programa-taller,citas_online,Citas online,Qué incluye,Sí (página pública de reserva),https://www.programa-taller.es/,2026-11-04
-programa-taller,web,Web del taller,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,fichaje,Control horario,Qué incluye,"Sí, incluido en todos los planes (fichaje desde el móvil, funciona sin cobertura)",https://www.programa-taller.es/,2026-11-04
-programa-taller,migracion,Migración desde otro programa,Qué incluye,Sí; puede tener coste según el programa de origen,https://www.programa-taller.es/,2026-11-04
-programa-taller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,Antes de enviar un mensaje se comprueba que lo que promete está hecho en el programa.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-04
-programa-taller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,El asistente pasa a una persona cuando toca y tiene una base de conocimiento que aprende cómo trabaja el taller.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-04
-programa-taller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,El asistente de WhatsApp entiende notas de voz en los dos sentidos y fotos que manda el cliente.,https://www.programa-taller.es/inteligencia-artificial/,2026-10-22
-programa-taller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,"Seguimiento automático de presupuestos por WhatsApp, con avisos cuando el cliente no contesta.",https://www.programa-taller.es/,2026-11-04
-programa-taller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,Pide reseñas de Google tras la reparación y gestiona respuestas a las reseñas (pre-redactadas).,https://www.programa-taller.es/inteligencia-artificial/,2026-10-28
-programa-taller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,"El agente de voz atiende en español, catalán, inglés, francés, portugués y búlgaro, y puede usar voz clonada.",https://www.programa-taller.es/inteligencia-artificial/,2026-11-04
-programa-taller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,El agente transfiere la llamada en caliente y susurra al comercial un resumen con contexto antes de conectarla.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-04
+programa-taller,web,Web del taller,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,fichaje,Control horario,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,migracion,Migración desde otro programa,Qué incluye,Sí; gratis por tiempo limitado (normalmente cuesta 299 € + IVA),https://www.programa-taller.es/precios/,2026-11-11
+programa-taller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,Antes de enviar un mensaje se comprueba que lo que promete está hecho en el programa.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,El asistente pasa a una persona cuando toca y tiene una base de conocimiento que aprende cómo trabaja el taller.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,El asistente de WhatsApp entiende notas de voz en los dos sentidos y fotos que manda el cliente.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,"Seguimiento automático de presupuestos por WhatsApp, con avisos cuando el cliente no contesta.",https://www.programa-taller.es/,2026-11-11
+programa-taller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,Pide reseñas de Google tras la reparación y gestiona respuestas a las reseñas (pre-redactadas).,https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,"El agente de voz atiende en español, catalán, inglés, francés, portugués y búlgaro, y puede usar voz clonada.",https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,El agente transfiere la llamada en caliente y susurra al comercial un resumen con contexto antes de conectarla.,https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
 programa-taller,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
+programa-taller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
 programa-taller,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.programa-taller.es/,2026-10-28
-programa-taller,sepa,Remesas SEPA,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
+programa-taller,sepa,Remesas SEPA,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
 programa-taller,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-04
+programa-taller,itv,Aviso de ITV por WhatsApp,Qué incluye,"Recordatorios de ITV al cliente programados por el canal que dio (WhatsApp, email o SMS).",https://www.programa-taller.es/funciones/,2026-11-11
+programa-taller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
 programa-taller,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.programa-taller.es/,2026-10-22
-programa-taller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,"Tras cada reparación, el programa pide al cliente una valoración y le invita a dejar su opinión en Google; las valoraciones bajas no llegan a Google.",https://www.programa-taller.es/,2026-10-28
-programa-taller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.programa-taller.es/,2026-10-28
-programa-taller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
+programa-taller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,"Tras cada reparación, el programa pide al cliente una valoración y le invita a dejar su opinión en Google; las valoraciones bajas no llegan a Google.",https://www.programa-taller.es/inteligencia-artificial/,2026-11-11
+programa-taller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
 programa-taller,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
-programa-taller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-04
+programa-taller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
+programa-taller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.programa-taller.es/,2026-11-11
 el-bujias,precio,Precio al mes,Precio y condiciones,"Taller: 70 € con IVA (57,85 € sin IVA); gratis hasta el 30/11/2026",https://elbujias.es/precios,2026-10-21
-el-bujias,iva,IVA en el precio,Precio y condiciones,Incluido,https://elbujias.es/precios,2026-11-04
-el-bujias,anual,Pago anual,Precio y condiciones,No hay pago anual,https://elbujias.es/precios,2026-11-04
-el-bujias,permanencia,Permanencia,Precio y condiciones,No,https://elbujias.es/precios,2026-11-04
-el-bujias,alta,Cuota de alta o implantación,Precio y condiciones,"No hay cuota de alta; alta en 5 minutos, sin instalación",https://elbujias.es/,2026-11-04
-el-bujias,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://elbujias.es/precios,2026-11-04
-el-bujias,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://elbujias.es/,2026-11-04
+el-bujias,iva,IVA en el precio,Precio y condiciones,Incluido,https://elbujias.es/precios,2026-11-11
+el-bujias,anual,Pago anual,Precio y condiciones,No hay pago anual,https://elbujias.es/precios,2026-11-11
+el-bujias,permanencia,Permanencia,Precio y condiciones,No,https://elbujias.es/precios,2026-11-11
+el-bujias,alta,Cuota de alta o implantación,Precio y condiciones,"No hay cuota de alta; alta en 5 minutos, sin instalación",https://elbujias.es/precios,2026-11-11
+el-bujias,usuarios,Usuarios,Precio y condiciones,Ilimitados,https://elbujias.es/precios,2026-11-11
+el-bujias,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://elbujias.es/,2026-11-11
 el-bujias,verifactu,Verifactu,Qué incluye,Facturación preparada para VeriFactu; el envío a la AEAT y el QR al activar VeriFactu,https://elbujias.es/,2026-11-04
-el-bujias,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"La IA escribe el mensaje para el cliente y el taller lo revisa y lo envía por WhatsApp; IA que conteste a los clientes, no consta",https://elbujias.es/presupuesto-ia-taller,2026-11-04
-el-bujias,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,presupuestos_ia,Presupuestos con IA,Qué incluye,Sí (propone causas y líneas al taller),https://elbujias.es/presupuesto-ia-taller,2026-11-04
-el-bujias,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Pedido por WhatsApp, sin precios",https://elbujias.es/recambios-stock-taller,2026-11-04
-el-bujias,citas_online,Citas online,Qué incluye,Sí (enlace de reserva),https://elbujias.es/,2026-11-04
-el-bujias,web,Web del taller,Qué incluye,Página pública de reserva de citas,https://elbujias.es/precios,2026-11-04
-el-bujias,fichaje,Control horario,Qué incluye,Sí,https://elbujias.es/precios,2026-11-04
-el-bujias,migracion,Migración desde otro programa,Qué incluye,"Sí, gratis",https://elbujias.es/,2026-11-04
-el-bujias,ia,Dónde usa IA,Qué incluye,"Presupuestos, órdenes por voz y por foto, dictado, chat de cada orden, «pregúntale a tu taller», mensajes al cliente, descripciones, resumen semanal, albaranes y facturas de proveedor por foto",https://elbujias.es/,2026-11-04
-el-bujias,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://elbujias.es/,2026-11-04
+el-bujias,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"La IA escribe el mensaje para el cliente y el taller lo revisa y lo envía por WhatsApp; IA que conteste a los clientes, no consta",https://elbujias.es/presupuesto-ia-taller,2026-11-11
+el-bujias,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,presupuestos_ia,Presupuestos con IA,Qué incluye,Sí (propone causas y líneas al taller),https://elbujias.es/presupuesto-ia-taller,2026-11-11
+el-bujias,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Pedido por WhatsApp, sin precios",https://elbujias.es/recambios-stock-taller,2026-11-11
+el-bujias,citas_online,Citas online,Qué incluye,Sí (enlace de reserva),https://elbujias.es/,2026-11-11
+el-bujias,web,Web del taller,Qué incluye,Página pública de reserva de citas,https://elbujias.es/precios,2026-11-11
+el-bujias,fichaje,Control horario,Qué incluye,Sí,https://elbujias.es/precios,2026-11-11
+el-bujias,migracion,Migración desde otro programa,Qué incluye,"Sí, gratis",https://elbujias.es/,2026-11-11
+el-bujias,ia,Dónde usa IA,Qué incluye,"Presupuestos, órdenes por voz y por foto, dictado, chat de cada orden, «pregúntale a tu taller», mensajes al cliente, descripciones, resumen semanal, albaranes y facturas de proveedor por foto",https://elbujias.es/,2026-11-11
+el-bujias,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://elbujias.es/,2026-11-11
 el-bujias,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,sepa,Remesas SEPA,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,itv,Aviso de ITV por WhatsApp,Qué incluye,La web dice que registra la fecha de la próxima ITV de cada vehículo y que el taller envía el aviso al cliente por WhatsApp con un toque.,https://elbujias.es/funciones,2026-11-04
-el-bujias,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,resguardo,Resguardo de depósito firmado,Qué incluye,La web dice que el resguardo de depósito sale de la orden y la hoja firmada queda guardada en ella.,https://elbujias.es/funciones,2026-11-04
-el-bujias,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://elbujias.es/,2026-11-04
-el-bujias,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-el-bujias,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://elbujias.es/,2026-11-04
-talleria,precio,Precio al mes,Precio y condiciones,Starter 29 €/mes · Pro 79 €/mes · Premium 129 €/mes (todos «+ impuestos»). No menciona plan Empresarial,https://talleria.online/,2026-11-04
-talleria,iva,IVA en el precio,Precio y condiciones,Sin IVA («+ impuestos»),https://talleria.online/,2026-11-04
-talleria,anual,Pago anual,Precio y condiciones,17 % menos (Starter: 290 € al año),https://talleria.online/,2026-11-04
+el-bujias,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,sepa,Remesas SEPA,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,itv,Aviso de ITV por WhatsApp,Qué incluye,La web dice que registra la fecha de la próxima ITV de cada vehículo y que el taller envía el aviso al cliente por WhatsApp con un toque.,https://elbujias.es/funciones,2026-11-11
+el-bujias,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,resguardo,Resguardo de depósito firmado,Qué incluye,La web dice que el resguardo de depósito sale de la orden y la hoja firmada queda guardada en ella.,https://elbujias.es/funciones,2026-11-11
+el-bujias,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://elbujias.es/,2026-11-11
+el-bujias,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+el-bujias,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://elbujias.es/,2026-11-11
+talleria,precio,Precio al mes,Precio y condiciones,Starter 29 €/mes · Pro 79 €/mes · Premium 129 €/mes (todos «+ impuestos»). No menciona plan Empresarial,https://talleria.online/,2026-11-11
+talleria,iva,IVA en el precio,Precio y condiciones,Sin IVA («+ impuestos»),https://talleria.online/,2026-11-11
+talleria,anual,Pago anual,Precio y condiciones,17 % menos (Starter: 290 € al año),https://talleria.online/,2026-11-11
 talleria,permanencia,Permanencia,Precio y condiciones,No,https://talleria.online/,2026-10-28
-talleria,alta,Cuota de alta o implantación,Precio y condiciones,Cuota de implementación inicial puntual en cada plan; importes no publicados,https://talleria.online/,2026-11-04
+talleria,alta,Cuota de alta o implantación,Precio y condiciones,Cuota de implementación inicial puntual en cada plan; importes no publicados,https://talleria.online/,2026-11-11
 talleria,usuarios,Usuarios,Precio y condiciones,Starter: hasta 2 mecánicos; Pro: hasta 5; Premium: ilimitados,https://talleria.online/#precios,2026-10-21
-talleria,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://talleria.online/,2026-11-04
-talleria,verifactu,Verifactu,Qué incluye,"Su web dice que cumple Verifactu y, en sus preguntas, que lo implantará antes de que sea obligatorio",https://talleria.online/,2026-11-04
-talleria,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,presupuestos_ia,Presupuestos con IA,Qué incluye,Presupuestos orientativos del asistente de su mini web (Premium),https://talleria.online/,2026-11-04
-talleria,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Escáner de albaranes con IA; precios en vivo y pedidos, no consta",https://talleria.online/,2026-11-04
-talleria,citas_online,Citas online,Qué incluye,Solicitudes de cita desde la mini web (Premium),https://talleria.online/,2026-11-04
-talleria,web,Web del taller,Qué incluye,"Mini web, solo en Premium",https://talleria.online/,2026-11-04
+talleria,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://talleria.online/,2026-11-11
+talleria,verifactu,Verifactu,Qué incluye,"Su web dice que cumple Verifactu y, en sus preguntas, que lo implantará antes de que sea obligatorio",https://talleria.online/,2026-11-11
+talleria,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,presupuestos_ia,Presupuestos con IA,Qué incluye,Presupuestos orientativos del asistente de su mini web (Premium),https://talleria.online/,2026-11-11
+talleria,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Escáner de albaranes con IA; precios en vivo y pedidos, no consta",https://talleria.online/,2026-11-11
+talleria,citas_online,Citas online,Qué incluye,Solicitudes de cita desde la mini web (Premium),https://talleria.online/,2026-11-11
+talleria,web,Web del taller,Qué incluye,"Mini web, solo en Premium",https://talleria.online/,2026-11-11
 talleria,fichaje,Control horario,Qué incluye,No consta (Premium: productividad y tiempos por mecánico),https://talleria.online/,2026-10-21
-talleria,migracion,Migración desde otro programa,Qué incluye,Importación de clientes y vehículos dentro de la implantación de pago,https://talleria.online/,2026-11-04
-talleria,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,sepa,Remesas SEPA,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,multicentro,Varios talleres en una sola cuenta,Qué incluye,Gestión multi-taller para grupos con varias sedes.,https://talleria.online/,2026-11-04
-talleria,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://talleria.online/,2026-11-04
-talleria,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-talleria,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://talleria.online/,2026-11-04
-mecanicalia,precio,Precio al mes,Precio y condiciones,Plan Único 29 €,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,iva,IVA en el precio,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-04
+talleria,migracion,Migración desde otro programa,Qué incluye,Importación de clientes y vehículos dentro de la implantación de pago,https://talleria.online/,2026-11-11
+talleria,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,sepa,Remesas SEPA,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,multicentro,Varios talleres en una sola cuenta,Qué incluye,Gestión multi-taller para grupos con varias sedes.,https://talleria.online/,2026-11-11
+talleria,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://talleria.online/,2026-11-11
+talleria,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+talleria,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://talleria.online/,2026-11-11
+mecanicalia,precio,Precio al mes,Precio y condiciones,Plan Único 29 €,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,iva,IVA en el precio,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-11
 mecanicalia,anual,Pago anual,Precio y condiciones,No consta (se factura cada mes),https://www.mecanicalia.com/,2026-11-04
-mecanicalia,permanencia,Permanencia,Precio y condiciones,No,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-04
+mecanicalia,permanencia,Permanencia,Precio y condiciones,No,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-11
 mecanicalia,usuarios,Usuarios,Precio y condiciones,Plan Único incluye equipo de mecánicos,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,verifactu,Verifactu,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Mensajes automáticos de seguimiento de presupuestos; IA que conteste, no consta",https://www.mecanicalia.com/,2026-11-04
-mecanicalia,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,presupuestos_ia,Presupuestos con IA,Qué incluye,Sí,https://www.mecanicalia.com/,2026-11-04
+mecanicalia,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,verifactu,Verifactu,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Mensajes automáticos de seguimiento de presupuestos; IA que conteste, no consta",https://www.mecanicalia.com/,2026-11-11
+mecanicalia,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,presupuestos_ia,Presupuestos con IA,Qué incluye,Sí,https://www.mecanicalia.com/,2026-11-11
 mecanicalia,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta (catálogo propio),https://www.mecanicalia.com/,2026-11-04
 mecanicalia,citas_online,Citas online,Qué incluye,No consta (calendario de mecánicos),https://www.mecanicalia.com/,2026-11-04
-mecanicalia,web,Web del taller,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,fichaje,Control horario,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,ia,Dónde usa IA,Qué incluye,Generación de presupuestos; redacción de mensajes de seguimiento por WhatsApp; reactivación de clientes (avisos de ITV o revisiones),https://www.mecanicalia.com/,2026-11-04
-mecanicalia,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,Recuerda automáticamente por WhatsApp los presupuestos pendientes: un mensaje a las 48h y otro a los 7 días.,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,sepa,Remesas SEPA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
+mecanicalia,web,Web del taller,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,fichaje,Control horario,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,ia,Dónde usa IA,Qué incluye,Generación de presupuestos; redacción de mensajes de seguimiento por WhatsApp; reactivación de clientes (avisos de ITV o revisiones),https://www.mecanicalia.com/,2026-11-11
+mecanicalia,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,Recuerda automáticamente por WhatsApp los presupuestos pendientes: un mensaje a las 48h y otro a los 7 días.,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,sepa,Remesas SEPA,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
 mecanicalia,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-mecanicalia,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-04
-gdtaller,precio,Precio al mes,Precio y condiciones,"Autónomo 19,90 € · Mi Taller 39,90 € · Premium 59,90 €",https://gdtaller.com/tarifas/,2026-10-28
-gdtaller,iva,IVA en el precio,Precio y condiciones,Sin IVA,https://gdtaller.com/tarifas/,2026-11-04
-gdtaller,anual,Pago anual,Precio y condiciones,No consta; se factura por trimestres naturales,https://gdtaller.com/tarifas/,2026-11-04
-gdtaller,permanencia,Permanencia,Precio y condiciones,No consta,https://gdtaller.com/tarifas/,2026-11-04
-gdtaller,alta,Cuota de alta o implantación,Precio y condiciones,No,https://gdtaller.com/tarifas/,2026-11-04
-gdtaller,usuarios,Usuarios,Precio y condiciones,1 / hasta 5 / ilimitados,https://gdtaller.com/tarifas/,2026-11-04
-gdtaller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,verifactu,Verifactu,Qué incluye,Sí,https://gdtaller.com/,2026-11-04
-gdtaller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Envío de documentos por WhatsApp; IA para clientes, no consta",https://gdtaller.com/,2026-11-04
-gdtaller,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Importa el material de albaranes de proveedor; precios en vivo y pedidos, no consta",https://gdtaller.com/,2026-11-04
-gdtaller,citas_online,Citas online,Qué incluye,"Módulo «Cita Previa»; cita online, no consta",https://gdtaller.com/,2026-11-04
-gdtaller,web,Web del taller,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,fichaje,Control horario,Qué incluye,"Sí, sin coste adicional",https://gdtaller.com/,2026-11-04
-gdtaller,migracion,Migración desde otro programa,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,ia,Dónde usa IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,sepa,Remesas SEPA,Qué incluye,Genera un archivo en formato SEPA para cobros por giro o domiciliación que se sube a la banca online.,https://gdtaller.com/,2026-11-04
-gdtaller,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,resguardo,Resguardo de depósito firmado,Qué incluye,"Resguardos de depósito configurables en el programa, con condiciones a firmar y firma del cliente desde móvil o tablet.",https://gdtaller.com/,2026-11-04
-gdtaller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
-gdtaller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gdtaller.com/,2026-11-04
+mecanicalia,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+mecanicalia,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.mecanicalia.com/,2026-11-11
+gdtaller,precio,Precio al mes,Precio y condiciones,"Autónomo 19,90 € · Mi Taller 39,90 € · Premium 59,90 €",https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,iva,IVA en el precio,Precio y condiciones,Sin IVA,https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,anual,Pago anual,Precio y condiciones,No consta; se factura por trimestres naturales,https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,permanencia,Permanencia,Precio y condiciones,No consta,https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,alta,Cuota de alta o implantación,Precio y condiciones,No,https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,usuarios,Usuarios,Precio y condiciones,1 / hasta 5 / ilimitados,https://gdtaller.com/tarifas/,2026-11-11
+gdtaller,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,verifactu,Verifactu,Qué incluye,Sí,https://gdtaller.com/,2026-11-11
+gdtaller,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Envío de documentos por WhatsApp; IA para clientes, no consta",https://gdtaller.com/,2026-11-11
+gdtaller,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,"Importa el material de albaranes de proveedor; precios en vivo y pedidos, no consta",https://gdtaller.com/,2026-11-11
+gdtaller,citas_online,Citas online,Qué incluye,"Módulo «Cita Previa»; cita online, no consta",https://gdtaller.com/,2026-11-11
+gdtaller,web,Web del taller,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,fichaje,Control horario,Qué incluye,"Sí, sin coste adicional",https://gdtaller.com/,2026-11-11
+gdtaller,migracion,Migración desde otro programa,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,ia,Dónde usa IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,sepa,Remesas SEPA,Qué incluye,Genera un archivo en formato SEPA para cobros por giro o domiciliación que se sube a la banca online.,https://gdtaller.com/,2026-11-11
+gdtaller,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,resguardo,Resguardo de depósito firmado,Qué incluye,"Resguardos de depósito configurables en el programa, con condiciones a firmar y firma del cliente desde móvil o tablet.",https://gdtaller.com/,2026-11-11
+gdtaller,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
+gdtaller,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gdtaller.com/,2026-11-11
 opticar,precio,Precio al mes,Precio y condiciones,Estándar 49 €/mes; Professional 79 €/mes (más IVA). Plan anual: 790 €/año.,https://opticar.es/,2026-11-04
 opticar,iva,IVA en el precio,Precio y condiciones,Precios mensuales + IVA (21%); el plan anual incluye IVA.,https://opticar.es/,2026-11-04
 opticar,anual,Pago anual,Precio y condiciones,"Professional Anual: 790 €/año, IVA incluido, equivale a 65,83 €/mes, 2 meses gratis.",https://opticar.es/,2026-11-04
@@ -1023,92 +1023,92 @@ mecanicos-uno,senal,Señal para confirmar la cita,Solo en Artemek,No consta,http
 mecanicos-uno,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://mecanicos.uno/,2026-11-04
 mecanicos-uno,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://mecanicos.uno/,2026-11-04
 mecanicos-uno,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://mecanicos.uno/,2026-11-04
-treyder,precio,Precio al mes,Precio y condiciones,"Versión gratuita para siempre; versión de pago por suscripción, sin precios publicados en las páginas",https://www.treyder.com/suscribirse/,2026-10-28
-treyder,iva,IVA en el precio,Precio y condiciones,No consta,https://treyder.com/,2026-11-04
-treyder,anual,Pago anual,Precio y condiciones,No consta,https://treyder.com/,2026-11-04
-treyder,permanencia,Permanencia,Precio y condiciones,Ofrece suscripción o compra con pago único; la compra no incluye soporte ni actualizaciones,https://www.treyder.com/suscribirse/,2026-11-04
-treyder,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://treyder.com/,2026-11-04
-treyder,usuarios,Usuarios,Precio y condiciones,Versión gratuita para un usuario,https://www.treyder.com/treytaller/,2026-11-04
-treyder,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://treyder.com/,2026-11-04
-treyder,verifactu,Verifactu,Qué incluye,Adaptado a la normativa Veri*Factu de la AEAT,https://treyder.com/,2026-11-04
-treyder,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Permite solicitar material a proveedores y gestionar los pedidos desde una orden de trabajo,https://www.treyder.com/treytaller/,2026-11-04
-treyder,citas_online,Citas online,Qué incluye,Calendario de citas del ERP sincronizado con Google Calendar; los clientes pueden solicitar servicios desde la plataforma web,https://www.treyder.com/treytaller/,2026-11-04
-treyder,web,Web del taller,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,fichaje,Control horario,Qué incluye,Control de asistencia y vacaciones incluido sin costes adicionales,https://www.treyder.com/treytaller/,2026-11-04
-treyder,migracion,Migración desde otro programa,Qué incluye,Importación de datos desde Excel; servicio de importación de datos por el equipo,https://www.treyder.com/suscribirse/,2026-11-04
-treyder,ia,Dónde usa IA,Qué incluye,OCR de facturas con IA,https://www.treyder.com/treytaller/,2026-11-04
-treyder,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://treyder.com/,2026-11-04
+treyder,precio,Precio al mes,Precio y condiciones,"Versión gratuita para siempre; versión de pago por suscripción, sin precios publicados en las páginas",https://www.treyder.com/suscribirse/,2026-11-11
+treyder,iva,IVA en el precio,Precio y condiciones,No consta,https://treyder.com/,2026-11-11
+treyder,anual,Pago anual,Precio y condiciones,No consta,https://treyder.com/,2026-11-11
+treyder,permanencia,Permanencia,Precio y condiciones,Ofrece suscripción o compra con pago único; la compra no incluye soporte ni actualizaciones,https://www.treyder.com/suscribirse/,2026-11-11
+treyder,alta,Cuota de alta o implantación,Precio y condiciones,"Con la suscripción avanzada, la instalación no tiene coste; para el resto no consta cuota de alta",https://www.treyder.com/suscribirse/,2026-11-11
+treyder,usuarios,Usuarios,Precio y condiciones,Versión gratuita para un usuario,https://www.treyder.com/treytaller/,2026-11-11
+treyder,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://treyder.com/,2026-11-11
+treyder,verifactu,Verifactu,Qué incluye,Adaptado a la normativa Veri*Factu de la AEAT,https://treyder.com/,2026-11-11
+treyder,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Permite solicitar material a proveedores y gestionar los pedidos desde una orden de trabajo,https://www.treyder.com/treytaller/,2026-11-11
+treyder,citas_online,Citas online,Qué incluye,Calendario de citas del ERP sincronizado con Google Calendar; los clientes pueden solicitar servicios desde la plataforma web,https://www.treyder.com/treytaller/,2026-11-11
+treyder,web,Web del taller,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,fichaje,Control horario,Qué incluye,Control de asistencia y vacaciones incluido sin costes adicionales,https://www.treyder.com/treytaller/,2026-11-11
+treyder,migracion,Migración desde otro programa,Qué incluye,Importación de datos desde Excel; servicio de importación de datos por el equipo,https://www.treyder.com/suscribirse/,2026-11-11
+treyder,ia,Dónde usa IA,Qué incluye,OCR de facturas con IA,https://www.treyder.com/treytaller/,2026-11-11
+treyder,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://treyder.com/,2026-11-11
 treyder,sepa,Remesas SEPA,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://treyder.com/,2026-11-04
+treyder,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://treyder.com/,2026-11-11
 treyder,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://treyder.com/,2026-11-04
-treyder,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://treyder.com/,2026-11-04
+treyder,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://treyder.com/,2026-11-11
+treyder,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://treyder.com/,2026-11-11
 treyder,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,(sin valor),https://www.treyder.com/treyfactsql/,2026-10-28
-treyder,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://treyder.com/,2026-11-04
-treyder,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://treyder.com/,2026-11-04
+treyder,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://treyder.com/,2026-11-11
+treyder,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://treyder.com/,2026-11-11
 gestallerpro,precio,Precio al mes,Precio y condiciones,No consta,https://gestallerpro.com/,2026-10-22
-gestallerpro,iva,IVA en el precio,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-04
+gestallerpro,iva,IVA en el precio,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-11
 gestallerpro,anual,Pago anual,Precio y condiciones,No consta,https://gestallerpro.com/,2026-10-28
-gestallerpro,permanencia,Permanencia,Precio y condiciones,"Pago único, sin cuotas de mantenimiento",https://gestallerpro.com/,2026-11-04
-gestallerpro,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,usuarios,Usuarios,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,verifactu,Verifactu,Qué incluye,Preparado para el cumplimiento de la normativa antifraude Verifactu,https://gestallerpro.com/,2026-11-04
-gestallerpro,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,citas_online,Citas online,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,web,Web del taller,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,fichaje,Control horario,Qué incluye,"Módulo de control horario: fichajes en un click, entrada y salida automática, cronómetro interactivo",https://gestallerpro.com/,2026-11-04
-gestallerpro,migracion,Migración desde otro programa,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,ia,Dónde usa IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,sepa,Remesas SEPA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
-gestallerpro,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-04
+gestallerpro,permanencia,Permanencia,Precio y condiciones,"Pago único, sin cuotas de mantenimiento",https://gestallerpro.com/,2026-11-11
+gestallerpro,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,usuarios,Usuarios,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,verifactu,Verifactu,Qué incluye,Preparado para el cumplimiento de la normativa antifraude Verifactu,https://gestallerpro.com/,2026-11-11
+gestallerpro,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,citas_online,Citas online,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,web,Web del taller,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,fichaje,Control horario,Qué incluye,"Módulo de control horario: fichajes en un click, entrada y salida automática, cronómetro interactivo",https://gestallerpro.com/,2026-11-11
+gestallerpro,migracion,Migración desde otro programa,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,ia,Dónde usa IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,sepa,Remesas SEPA,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
+gestallerpro,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gestallerpro.com/,2026-11-11
 cafler,precio,Precio al mes,Precio y condiciones,No consta,https://cafler.ai/,2026-11-04
 cafler,iva,IVA en el precio,Precio y condiciones,No consta,https://cafler.ai/,2026-11-04
 cafler,anual,Pago anual,Precio y condiciones,No consta,https://cafler.ai/,2026-11-04
@@ -1151,49 +1151,49 @@ cafler,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://caf
 cafler,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://cafler.ai/,2026-11-04
 cafler,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://cafler.ai/,2026-11-04
 cafler,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://cafler.ai/,2026-11-04
-hosticar,precio,Precio al mes,Precio y condiciones,Sin precio público (presupuesto a medida en sus tres planes),https://www.hosticar.com/precios,2026-11-04
+hosticar,precio,Precio al mes,Precio y condiciones,Sin precio público (presupuesto a medida en sus tres planes),https://www.hosticar.com/precios,2026-11-11
 hosticar,iva,IVA en el precio,Precio y condiciones,Sin precio público,https://www.hosticar.com/precios,2026-11-04
 hosticar,anual,Pago anual,Precio y condiciones,Sin precio público,https://www.hosticar.com/precios,2026-11-04
-hosticar,permanencia,Permanencia,Precio y condiciones,No consta («sin contratos largos»),https://www.hosticar.com/precios,2026-10-28
-hosticar,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,usuarios,Usuarios,Precio y condiciones,No consta (Esencial: hasta 100 vehículos en ficha),https://www.hosticar.com/precios,2026-10-22
-hosticar,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,verifactu,Verifactu,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Sí, en Premium",https://www.hosticar.com/precios,2026-11-04
-hosticar,telefono_ia,Teléfono con IA,Qué incluye,"Sí, en Premium (agente de voz)",https://www.hosticar.com/precios,2026-11-04
-hosticar,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta (el asistente envía presupuestos),https://www.hosticar.com/,2026-11-04
-hosticar,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,citas_online,Citas online,Qué incluye,Sí,https://www.hosticar.com/,2026-11-04
+hosticar,permanencia,Permanencia,Precio y condiciones,No consta («sin contratos largos»),https://www.hosticar.com/,2026-11-11
+hosticar,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,usuarios,Usuarios,Precio y condiciones,No consta (Esencial: hasta 100 vehículos en ficha),https://www.hosticar.com/,2026-11-11
+hosticar,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,verifactu,Verifactu,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,facturae,Factura electrónica (Facturae),Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,"Sí, en Premium",https://www.hosticar.com/,2026-11-11
+hosticar,telefono_ia,Teléfono con IA,Qué incluye,"Sí, en Premium (agente de voz)",https://www.hosticar.com/,2026-11-11
+hosticar,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta (el asistente envía presupuestos),https://www.hosticar.com/,2026-11-11
+hosticar,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,citas_online,Citas online,Qué incluye,Sí,https://www.hosticar.com/,2026-11-11
 hosticar,web,Web del taller,Qué incluye,No consta (motor de reservas web),https://www.hosticar.com/,2026-10-22
-hosticar,fichaje,Control horario,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,migracion,Migración desde otro programa,Qué incluye,Importan clientes y vehículos al dar de alta,https://www.hosticar.com/,2026-11-04
-hosticar,ia,Dónde usa IA,Qué incluye,"WhatsApp (asistente que responde, agenda y envía presupuestos), llamadas (agente de voz que atiende y agenda citas)",https://www.hosticar.com/,2026-11-04
-hosticar,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,sepa,Remesas SEPA,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,itv,Aviso de ITV por WhatsApp,Qué incluye,Recordatorios automáticos de ITV por WhatsApp,https://www.hosticar.com/,2026-10-28
-hosticar,multicentro,Varios talleres en una sola cuenta,Qué incluye,Multi-taller con permisos por sucursal,https://www.hosticar.com/,2026-10-28
-hosticar,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
+hosticar,fichaje,Control horario,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,migracion,Migración desde otro programa,Qué incluye,Importan clientes y vehículos al dar de alta,https://www.hosticar.com/,2026-11-11
+hosticar,ia,Dónde usa IA,Qué incluye,"WhatsApp (asistente que responde, agenda y envía presupuestos), llamadas (agente de voz que atiende y agenda citas)",https://www.hosticar.com/,2026-11-11
+hosticar,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,sepa,Remesas SEPA,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,itv,Aviso de ITV por WhatsApp,Qué incluye,Recordatorios automáticos de ITV por WhatsApp,https://www.hosticar.com/,2026-11-11
+hosticar,multicentro,Varios talleres en una sola cuenta,Qué incluye,Multi-taller con permisos por sucursal,https://www.hosticar.com/,2026-11-11
+hosticar,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
 hosticar,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.hosticar.com/,2026-10-28
-hosticar,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
-hosticar,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-04
+hosticar,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
+hosticar,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.hosticar.com/,2026-11-11
 motorsoft,precio,Precio al mes,Precio y condiciones,No consta,https://motorsoft.es/,2026-11-04
 motorsoft,iva,IVA en el precio,Precio y condiciones,No consta,https://motorsoft.es/,2026-11-04
 motorsoft,anual,Pago anual,Precio y condiciones,No consta,https://motorsoft.es/,2026-11-04
@@ -1280,49 +1280,49 @@ g-smart,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://gs
 g-smart,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://gsmart.eu/,2026-11-04
 g-smart,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://gsmart.eu/,2026-11-04
 g-smart,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://gsmart.eu/,2026-11-04
-ateliopro,precio,Precio al mes,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,iva,IVA en el precio,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,anual,Pago anual,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,permanencia,Permanencia,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,usuarios,Usuarios,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/,2026-10-22
-ateliopro,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,verifactu,Verifactu,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,facturae,Factura electrónica (Facturae),Qué incluye,Facturación electrónica: permite crear facturas y convertirlas en facturas electrónicas,https://www.infopro-digital-automotive.com/atelio-pro/,2026-10-22
-ateliopro,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Presupuestos vinculados al catálogo de recambios Atelio Aftermarket International,https://www.infopro-digital-automotive.com/atelio-pro/,2026-10-28
-ateliopro,citas_online,Citas online,Qué incluye,"Agenda de taller con citas por empleado y tarea, y avisos por SMS o email",https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,web,Web del taller,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,fichaje,Control horario,Qué incluye,Gestión de tareas y empleados,https://www.infopro-digital-automotive.com/atelio-pro/,2026-10-28
-ateliopro,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-04
-ateliopro,ia,Dónde usa IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,sepa,Remesas SEPA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
-ateliopro,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-04
+ateliopro,precio,Precio al mes,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,iva,IVA en el precio,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,anual,Pago anual,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,permanencia,Permanencia,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,usuarios,Usuarios,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,verifactu,Verifactu,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,facturae,Factura electrónica (Facturae),Qué incluye,Facturación electrónica: permite crear facturas y convertirlas en facturas electrónicas,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,telefono_ia,Teléfono con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Presupuestos vinculados al catálogo de recambios Atelio Aftermarket International,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,citas_online,Citas online,Qué incluye,"Agenda de taller con citas por empleado y tarea, y avisos por SMS o email",https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,web,Web del taller,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,fichaje,Control horario,Qué incluye,Gestión de tareas y empleados,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,migracion,Migración desde otro programa,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,ia,Dónde usa IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,cortesia,Coches de cortesía en la agenda,Qué incluye,"La página indica que el software permite ver el trabajo en curso y las asignaciones de vehículos de cortesía, y consultar el estado del vehículo de alquiler.",https://www.infopro-digital-automotive.com/atelio-pro/,2026-11-11
+ateliopro,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,sepa,Remesas SEPA,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,resguardo,Resguardo de depósito firmado,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
+ateliopro,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.infopro-digital-automotive.com/,2026-11-11
 gvisualtal,precio,Precio al mes,Precio y condiciones,No consta,https://gira.net/,2026-10-22
 gvisualtal,iva,IVA en el precio,Precio y condiciones,No consta,https://gira.net/,2026-10-22
 gvisualtal,anual,Pago anual,Precio y condiciones,No consta,https://gira.net/,2026-10-22
@@ -1537,49 +1537,49 @@ autogest,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://w
 autogest,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://www.softeca.es/,2026-11-04
 autogest,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://www.softeca.es/,2026-11-04
 autogest,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://www.softeca.es/,2026-11-04
-tallergp,precio,Precio al mes,Precio y condiciones,No publica el precio de la cuota mensual; habla de una cuota fija mensual o de un sistema de créditos en prepago.,https://tallergp.com/,2026-11-04
-tallergp,iva,IVA en el precio,Precio y condiciones,No consta,https://tallergp.com/,2026-11-04
-tallergp,anual,Pago anual,Precio y condiciones,"Pago mensual, trimestral o anual; 5% de descuento adicional en contratación anual.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-04
-tallergp,permanencia,Permanencia,Precio y condiciones,Sin permanencia en el programa de gestión.,https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-04
-tallergp,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://tallergp.com/,2026-11-04
-tallergp,usuarios,Usuarios,Precio y condiciones,"2 usuarios incluidos, ampliables contratando usuarios adicionales.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-04
-tallergp,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,"SMS no incluidos en la cuota, coste según número de SMS adquiridos; emails ilimitados. No menciona WhatsApp ni llamadas.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-04
-tallergp,verifactu,Verifactu,Qué incluye,Integración con Veri*Factu en fase de desarrollo.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,facturae,Factura electrónica (Facturae),Qué incluye,Dice cumplir la normativa de facturación electrónica en más de 10 países; no menciona Facturae específicamente.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,telefono_ia,Teléfono con IA,Qué incluye,Conectividad con centralita virtual con reconocimiento de clientes en la llamada; no menciona IA.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Gestión de pedido de proveedor y albaranes de recepción; no menciona precios de proveedor en vivo.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,citas_online,Citas online,Qué incluye,Citas previas y agenda para gestionar citas.,https://tallergp.com/,2026-11-04
-tallergp,web,Web del taller,Qué incluye,"Ofrecen el desarrollo de la página web del taller, con hasta 50% de descuento en el hosting si se contrata el programa.",https://tallergp.com/otros-servicios-prestados-a-talleres/,2026-11-04
-tallergp,fichaje,Control horario,Qué incluye,Fichajes de empleados insertando las horas trabajadas directamente en la orden de reparación.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,migracion,Migración desde otro programa,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,ia,Dónde usa IA,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,sepa,Remesas SEPA,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,resguardo,Resguardo de depósito firmado,Qué incluye,Resguardo de depósito del vehículo que el cliente puede firmar desde el teléfono o la tableta.,https://tallergp.com/prestaciones-del-programa/,2026-11-04
-tallergp,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://tallergp.com/,2026-11-04
-tallergp,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,"El taller define el diseño de sus documentos (resguardos, órdenes, albaranes, facturas) con el configurador de la aplicación.",https://tallergp.com/modulos/,2026-11-04
-tallergp,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
-tallergp,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://tallergp.com/,2026-11-04
+tallergp,precio,Precio al mes,Precio y condiciones,No publica el precio de la cuota mensual; habla de una cuota fija mensual o de un sistema de créditos en prepago.,https://tallergp.com/,2026-11-11
+tallergp,iva,IVA en el precio,Precio y condiciones,No consta,https://tallergp.com/,2026-11-11
+tallergp,anual,Pago anual,Precio y condiciones,"Pago mensual, trimestral o anual; 5% de descuento adicional en contratación anual.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-11
+tallergp,permanencia,Permanencia,Precio y condiciones,Sin permanencia en el programa de gestión.,https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-11
+tallergp,alta,Cuota de alta o implantación,Precio y condiciones,No consta,https://tallergp.com/,2026-11-11
+tallergp,usuarios,Usuarios,Precio y condiciones,"2 usuarios incluidos, ampliables contratando usuarios adicionales.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-11
+tallergp,consumo,WhatsApp y llamadas: coste por uso,Precio y condiciones,"SMS no incluidos en la cuota, coste según número de SMS adquiridos; emails ilimitados. No menciona WhatsApp ni llamadas.",https://tallergp.com/tarifas-del-programa-tallergp/,2026-11-11
+tallergp,verifactu,Verifactu,Qué incluye,Integración con Veri*Factu en fase de desarrollo.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,facturae,Factura electrónica (Facturae),Qué incluye,Dice cumplir la normativa de facturación electrónica en más de 10 países; no menciona Facturae específicamente.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,whatsapp_ia,WhatsApp con IA para clientes,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,telefono_ia,Teléfono con IA,Qué incluye,Conectividad con centralita virtual con reconocimiento de clientes en la llamada; no menciona IA.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,presupuestos_ia,Presupuestos con IA,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,proveedores,Precios de proveedor en vivo y pedidos,Qué incluye,Gestión de pedido de proveedor y albaranes de recepción; no menciona precios de proveedor en vivo.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,citas_online,Citas online,Qué incluye,Citas previas y agenda para gestionar citas.,https://tallergp.com/,2026-11-11
+tallergp,web,Web del taller,Qué incluye,"Ofrecen el desarrollo de la página web del taller, con hasta 50% de descuento en el hosting si se contrata el programa.",https://tallergp.com/otros-servicios-prestados-a-talleres/,2026-11-11
+tallergp,fichaje,Control horario,Qué incluye,Fichajes de empleados insertando las horas trabajadas directamente en la orden de reparación.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,migracion,Migración desde otro programa,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,ia,Dónde usa IA,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,validador,"Cada respuesta de la IA, revisada antes de enviarla",Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,escalado,Avisa al taller cuando no sabe y aprende la respuesta,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,media,"Entiende notas de voz, fotos y documentos del cliente",Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,seguimiento,Seguimiento de presupuestos por WhatsApp,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,resenas,Reseñas de Google: pedirlas y contestarlas con IA,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,voz_idiomas,Teléfono con IA en varios idiomas y con la voz que elijas,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,traspaso,Pasa la llamada a una persona con un resumen hablado,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,tablero,Pantalla del taller con el trabajo del día,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,cortesia,Coches de cortesía en la agenda,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,pago_enlace,Cobro por enlace de pago,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,sepa,Remesas SEPA,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,tiempos,Tiempos de mano de obra por vehículo en el presupuesto,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,itv,Aviso de ITV por WhatsApp,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,multicentro,Varios talleres en una sola cuenta,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,resguardo,Resguardo de depósito firmado,Qué incluye,Resguardo de depósito del vehículo que el cliente puede firmar desde el teléfono o la tableta.,https://tallergp.com/prestaciones-del-programa/,2026-11-11
+tallergp,resena_factura,Pide la reseña de Google al facturar,Qué incluye,No consta,https://tallergp.com/,2026-11-11
+tallergp,plantillas,Plantillas de factura y presupuesto diseñadas por el taller,Qué incluye,"El taller define el diseño de sus documentos (resguardos, órdenes, albaranes, facturas) con el configurador de la aplicación.",https://tallergp.com/modulos/,2026-11-11
+tallergp,studio,Estudio de vídeo e imagen con IA (ArtemekStudio),Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,memoria,Memoria de cada cliente,Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,redes,Redes sociales escritas y publicadas con IA,Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,web_ia,Web del taller diseñada y escrita con IA,Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,senal,Señal para confirmar la cita,Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,ausencias,"Penalización por no presentarse, también si paga en efectivo",Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,estancia,Gastos de estancia configurables,Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
+tallergp,huecos,"Adelanta citas cuando se libera un hueco, por WhatsApp o llamada",Solo en Artemek,No consta,https://tallergp.com/,2026-11-11
 motryx,precio,Precio al mes,Precio y condiciones,"No publica precios: se define en la demo según tamaño del taller, usuarios y canales activados",https://motryx.ai/,2026-11-04
 motryx,iva,IVA en el precio,Precio y condiciones,Precios sin IVA,https://motryx.ai/terminos/,2026-11-04
 motryx,anual,Pago anual,Precio y condiciones,No consta,https://motryx.ai/,2026-11-04
