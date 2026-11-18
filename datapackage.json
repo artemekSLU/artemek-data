@@ -3,8 +3,8 @@
   "name": "artemek-datos-abiertos",
   "title": "Datos abiertos de Artemek",
   "description": "Precios de taller, estudios, reclamaciones y programas de taller en España",
-  "version": "2026.11.11.2",
-  "created": "2026-11-11",
+  "version": "2026.11.18",
+  "created": "2026-11-18",
   "homepage": "https://www.artemek.com",
   "licenses": [
     {
@@ -524,7 +524,7 @@
       "mediatype": "text/csv",
       "encoding": "utf-8",
       "bytes": 3419,
-      "hash": "sha256:acc5054573146cd37698739a437a6b434cb793280ba00f5a9fe42b658b662f2c",
+      "hash": "sha256:f5cfad083ea6a94ed22f56155e3f3c795751e0f32b74d1d4b7de50ff1ade1071",
       "sources": [
         {
           "title": "artemek.com",
@@ -569,8 +569,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "bytes": 232886,
-      "hash": "sha256:3e12416290ce1bc8894e51c39ba7e6291c3df86a231744b23a7f014426bbc061",
+      "bytes": 234335,
+      "hash": "sha256:086736a7a40c40d8d9e659b8649e6f3079d35fefe3b6668830255f1e220e04e3",
       "sources": [
         {
           "title": "artemek.com",
