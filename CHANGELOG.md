@@ -1,5 +1,10 @@
 # Cambios
 
+## 2026.11.18.2 · 2026-11-18
+
+- Cambiado `comparativa/programas.csv` (42 → 44 filas).
+- Cambiado `comparativa/valores.csv` (1801 → 1887 filas).
+
 ## 2026.11.18 · 2026-11-18
 
 - Cambiado `comparativa/programas.csv` (42 filas, valores nuevos).
